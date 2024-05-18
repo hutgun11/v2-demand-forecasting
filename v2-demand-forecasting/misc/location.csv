@@ -1,0 +1,590 @@
+BranchCode,ZipCode,Province,District,ProvinceEN,DistrictEN
+417,10600,กรุงเทพมหานคร,ธนบุรี,Bangkok ,Thonburi 
+198,10150,กรุงเทพมหานคร,บางขุนเทียน,Bangkok ,Bang Khun Thian 
+486,10530,กรุงเทพมหานคร,หนองจอก,Bangkok ,Nong Chok 
+445,10220,กรุงเทพมหานคร,บางเขน,Bangkok ,Bang Khen 
+1000,10160,กรุงเทพมหานคร,ภาษีเจริญ,Bangkok ,Phasi Charoen 
+448,10700,กรุงเทพมหานคร,บางกอกน้อย,Bangkok ,Bangkok Noi 
+548,10150,กรุงเทพมหานคร,บางขุนเทียน,Bangkok ,Bang Khun Thian 
+425,10170,กรุงเทพมหานคร,ตลิ่งชัน,Bangkok ,Taling Chan 
+337,10220,กรุงเทพมหานคร,บางเขน,Bangkok ,Bang Khen 
+458,10160,กรุงเทพมหานคร,ภาษีเจริญ,Bangkok ,Phasi Charoen 
+618,10510,กรุงเทพมหานคร,มีนบุรี,Bangkok ,Minburi 
+230,10150,กรุงเทพมหานคร,บางขุนเทียน,Bangkok ,Bang Khun Thian 
+462,10240,กรุงเทพมหานคร,บางกะปิ,Bangkok ,Bang Kapi 
+418,10230,กรุงเทพมหานคร,ลาดพร้าว,Bangkok ,Ladprao 
+181,10150,กรุงเทพมหานคร,บางขุนเทียน,Bangkok ,Bang Khun Thian 
+170,10150,กรุงเทพมหานคร,บางขุนเทียน,Bangkok ,Bang Khun Thian 
+188,10150,กรุงเทพมหานคร,บางขุนเทียน,Bangkok ,Bang Khun Thian 
+177,10150,กรุงเทพมหานคร,บางขุนเทียน,Bangkok ,Bang Khun Thian 
+450,10140,กรุงเทพมหานคร,ราษฎร์บูรณะ,Bangkok ,Rat Burana 
+569,10140,กรุงเทพมหานคร,ราษฎร์บูรณะ,Bangkok ,Rat Burana 
+443,10260,กรุงเทพมหานคร,พระโขนง,Bangkok ,Phra Khanong 
+414,10220,กรุงเทพมหานคร,บางเขน,Bangkok ,Bang Khen 
+602,10530,กรุงเทพมหานคร,หนองจอก,Bangkok ,Nong Chok 
+512,10220,กรุงเทพมหานคร,บางเขน,Bangkok ,Bang Khen 
+496,10230,กรุงเทพมหานคร,ลาดพร้าว,Bangkok ,Ladprao 
+436,10240,กรุงเทพมหานคร,บางกะปิ,Bangkok ,Bang Kapi 
+424,10310,กรุงเทพมหานคร,ห้วยขวาง,Bangkok ,Huai Khwang 
+491,10210,กรุงเทพมหานคร,ดอนเมือง,Bangkok ,Don Mueang 
+456,10210,กรุงเทพมหานคร,ดอนเมือง,Bangkok ,Don Mueang 
+279,10150,กรุงเทพมหานคร,บางขุนเทียน,Bangkok ,Bang Khun Thian 
+550,10530,กรุงเทพมหานคร,หนองจอก,Bangkok ,Nong Chok 
+437,10150,กรุงเทพมหานคร,บางขุนเทียน,Bangkok ,Bang Khun Thian 
+1001,10500,กรุงเทพมหานคร,บางรัก,Bangkok ,Some 
+527,10160,กรุงเทพมหานคร,ภาษีเจริญ,Bangkok ,Phasi Charoen 
+272,10160,กรุงเทพมหานคร,ภาษีเจริญ,Bangkok ,Phasi Charoen 
+396,10140,กรุงเทพมหานคร,ราษฎร์บูรณะ,Bangkok ,Rat Burana 
+426,10260,กรุงเทพมหานคร,พระโขนง,Bangkok ,Phra Khanong 
+432,10510,กรุงเทพมหานคร,มีนบุรี,Bangkok ,Minburi 
+485,10240,กรุงเทพมหานคร,บางกะปิ,Bangkok ,Bang Kapi 
+420,10210,กรุงเทพมหานคร,ดอนเมือง,Bangkok ,Don Mueang 
+544,10250,กรุงเทพมหานคร,ประเวศ,Bangkok ,Prawet 
+329,10150,กรุงเทพมหานคร,บางขุนเทียน,Bangkok ,Bang Khun Thian 
+490,10160,กรุงเทพมหานคร,ภาษีเจริญ,Bangkok ,Phasi Charoen 
+468,10160,กรุงเทพมหานคร,ภาษีเจริญ,Bangkok ,Phasi Charoen 
+265,10160,กรุงเทพมหานคร,ภาษีเจริญ,Bangkok ,Phasi Charoen 
+301,10220,กรุงเทพมหานคร,บางเขน,Bangkok ,Bang Khen 
+433,10240,กรุงเทพมหานคร,บางกะปิ,Bangkok ,Bang Kapi 
+481,10510,กรุงเทพมหานคร,มีนบุรี,Bangkok ,Minburi 
+310,10290,สมุทรปราการ,พระสมุทรเจดีย์,Samut Prakan ,Phra Samut Chedi 
+367,10560,สมุทรปราการ,บางบ่อ,Samut Prakan ,Bang Bo 
+408,10540,สมุทรปราการ,บางพลี,Samut Prakan ,Bang Phli 
+460,10130,สมุทรปราการ,พระประแดง,Samut Prakan ,Phra Pradaeng 
+385,10540,สมุทรปราการ,บางพลี,Samut Prakan ,Bang Phli 
+457,10560,สมุทรปราการ,บางบ่อ,Samut Prakan ,Bang Bo 
+559,10270,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+478,10270,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+542,10540,สมุทรปราการ,บางพลี,Samut Prakan ,Bang Phli 
+523,10540,สมุทรปราการ,บางพลี,Samut Prakan ,Bang Phli 
+461,10540,สมุทรปราการ,บางพลี,Samut Prakan ,Bang Phli 
+260,10270,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+360,10280,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+387,10130,สมุทรปราการ,พระประแดง,Samut Prakan ,Phra Pradaeng 
+388,10270,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+494,10270,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+162,10130,สมุทรปราการ,พระประแดง,Samut Prakan ,Phra Pradaeng 
+504,10270,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+358,10130,สมุทรปราการ,พระประแดง,Samut Prakan ,Phra Pradaeng 
+327,10270,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+479,10540,สมุทรปราการ,บางพลี,Samut Prakan ,Bang Phli 
+241,10270,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+305,10540,สมุทรปราการ,บางพลี,Samut Prakan ,Bang Phli 
+416,10280,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+161,10290,สมุทรปราการ,พระสมุทรเจดีย์,Samut Prakan ,Phra Samut Chedi 
+438,10270,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+483,10540,สมุทรปราการ,บางพลี,Samut Prakan ,Bang Phli 
+355,10280,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+312,10270,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+572,10540,สมุทรปราการ,บางพลี,Samut Prakan ,Bang Phli 
+434,10280,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+318,10270,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+505,10560,สมุทรปราการ,บางบ่อ,Samut Prakan ,Bang Bo 
+409,10280,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+472,10280,สมุทรปราการ,เมืองสมุทรปราการ,Samut Prakan ,Mueang Samut Prakan 
+222,10290,สมุทรปราการ,พระสมุทรเจดีย์,Samut Prakan ,Phra Samut Chedi 
+240,11140,นนทบุรี,บางใหญ่,Nonthaburi ,Bang Yai 
+498,11110,นนทบุรี,บางบัวทอง,Nonthaburi ,Bang Bua Thong 
+371,11110,นนทบุรี,บางบัวทอง,Nonthaburi ,Bang Bua Thong 
+203,11110,นนทบุรี,บางบัวทอง,Nonthaburi ,Bang Bua Thong 
+173,11140,นนทบุรี,บางใหญ่,Nonthaburi ,Bang Yai 
+428,11140,นนทบุรี,บางใหญ่,Nonthaburi ,Bang Yai 
+214,11140,นนทบุรี,บางใหญ่,Nonthaburi ,Bang Yai 
+180,11140,นนทบุรี,บางใหญ่,Nonthaburi ,Bang Yai 
+304,11000,นนทบุรี,เมืองนนทบุรี,Nonthaburi ,Mueang Nonthaburi 
+508,11110,นนทบุรี,บางบัวทอง,Nonthaburi ,Bang Bua Thong 
+317,11130,นนทบุรี,บางกรวย,Nonthaburi ,Thin 
+208,11000,นนทบุรี,เมืองนนทบุรี,Nonthaburi ,Mueang Nonthaburi 
+537,11150,นนทบุรี,ไทรน้อย,Nonthaburi ,Sai Noi 
+407,11120,นนทบุรี,ปากเกร็ด,Nonthaburi ,Pak Kret 
+201,11130,นนทบุรี,บางกรวย,Nonthaburi ,Thin 
+233,11150,นนทบุรี,ไทรน้อย,Nonthaburi ,Sai Noi 
+174,11130,นนทบุรี,บางกรวย,Nonthaburi ,Thin 
+499,11000,นนทบุรี,เมืองนนทบุรี,Nonthaburi ,Mueang Nonthaburi 
+322,11110,นนทบุรี,บางบัวทอง,Nonthaburi ,Bang Bua Thong 
+202,11130,นนทบุรี,บางกรวย,Nonthaburi ,Thin 
+302,11110,นนทบุรี,บางบัวทอง,Nonthaburi ,Bang Bua Thong 
+192,11140,นนทบุรี,บางใหญ่,Nonthaburi ,Bang Yai 
+447,11150,นนทบุรี,ไทรน้อย,Nonthaburi ,Sai Noi 
+482,12120,ปทุมธานี,คลองหลวง,Pathum Thani ,Canal capital 
+488,12120,ปทุมธานี,คลองหลวง,Pathum Thani ,Canal capital 
+250,12120,ปทุมธานี,คลองหลวง,Pathum Thani ,Canal capital 
+635,12000,ปทุมธานี,เมืองปทุมธานี,Pathum Thani ,Pathum Thani 
+353,12000,ปทุมธานี,เมืองปทุมธานี,Pathum Thani ,Pathum Thani 
+397,12120,ปทุมธานี,คลองหลวง,Pathum Thani ,Canal capital 
+451,12120,ปทุมธานี,คลองหลวง,Pathum Thani ,Canal capital 
+556,12110,ปทุมธานี,ธัญบุรี,Pathum Thani ,Thanyaburi 
+423,12110,ปทุมธานี,ธัญบุรี,Pathum Thani ,Thanyaburi 
+243,12150,ปทุมธานี,ลำลูกกา,Pathum Thani ,Lam Luk Ka 
+244,12110,ปทุมธานี,ธัญบุรี,Pathum Thani ,Thanyaburi 
+405,12130,ปทุมธานี,ธัญบุรี,Pathum Thani ,Thanyaburi 
+560,12150,ปทุมธานี,ลำลูกกา,Pathum Thani ,Lam Luk Ka 
+473,12130,ปทุมธานี,ธัญบุรี,Pathum Thani ,Thanyaburi 
+271,12000,ปทุมธานี,เมืองปทุมธานี,Pathum Thani ,Pathum Thani 
+546,12150,ปทุมธานี,ลำลูกกา,Pathum Thani ,Lam Luk Ka 
+427,12120,ปทุมธานี,คลองหลวง,Pathum Thani ,Canal capital 
+258,12120,ปทุมธานี,คลองหลวง,Pathum Thani ,Canal capital 
+539,12130,ปทุมธานี,ธัญบุรี,Pathum Thani ,Thanyaburi 
+375,13160,พระนครศรีอยุธยา,บางปะอิน,Ayutthaya ,Bang Pa-in 
+218,13120,พระนครศรีอยุธยา,ผักไห่,Ayutthaya ,Phakhai 
+224,13260,พระนครศรีอยุธยา,นครหลวง,Ayutthaya ,capital 
+401,13130,พระนครศรีอยุธยา,ท่าเรือ,Ayutthaya ,port 
+313,13130,พระนครศรีอยุธยา,ท่าเรือ,Ayutthaya ,port 
+217,13260,พระนครศรีอยุธยา,นครหลวง,Ayutthaya ,capital 
+196,13250,พระนครศรีอยุธยา,บางบาล,Ayutthaya ,Bangbun 
+533,13220,พระนครศรีอยุธยา,บางปะหัน,Ayutthaya ,Thin 
+266,13190,พระนครศรีอยุธยา,บางไทร,Ayutthaya ,Bang Sai 
+589,13150,พระนครศรีอยุธยา,มหาราช,Ayutthaya ,Great 
+315,13160,พระนครศรีอยุธยา,บางปะอิน,Ayutthaya ,Bang Pa-in 
+536,13110,พระนครศรีอยุธยา,เสนา,Ayutthaya ,Sena 
+333,13000,พระนครศรีอยุธยา,พระนครศรีอยุธยา,Ayutthaya ,Ayutthaya 
+586,13130,พระนครศรีอยุธยา,ท่าเรือ,Ayutthaya ,port 
+393,13210,พระนครศรีอยุธยา,อุทัย,Ayutthaya ,Uthai 
+395,13000,พระนครศรีอยุธยา,พระนครศรีอยุธยา,Ayutthaya ,Ayutthaya 
+303,13110,พระนครศรีอยุธยา,เสนา,Ayutthaya ,Sena 
+365,13210,พระนครศรีอยุธยา,อุทัย,Ayutthaya ,Uthai 
+221,13260,พระนครศรีอยุธยา,นครหลวง,Ayutthaya ,capital 
+398,13160,พระนครศรีอยุธยา,บางปะอิน,Ayutthaya ,Bang Pa-in 
+480,13210,พระนครศรีอยุธยา,อุทัย,Ayutthaya ,Uthai 
+373,13110,พระนครศรีอยุธยา,เสนา,Ayutthaya ,Sena 
+501,13190,พระนครศรีอยุธยา,บางไทร,Ayutthaya ,Bang Sai 
+377,14110,อ่างทอง,วิเศษชัยชาญ,Ang Thong ,Wonderful Chaiyan 
+399,14120,อ่างทอง,โพธิ์ทอง,Ang Thong ,Pho Thong 
+77,14130,อ่างทอง,ป่าโมก,Ang Thong ,Forest 
+386,14000,อ่างทอง,เมืองอ่างทอง,Ang Thong ,Ang Thong City 
+410,14000,อ่างทอง,เมืองอ่างทอง,Ang Thong ,Ang Thong City 
+237,14110,อ่างทอง,วิเศษชัยชาญ,Ang Thong ,Wonderful Chaiyan 
+172,14160,อ่างทอง,สามโก้,Ang Thong ,Thirty 
+521,14110,อ่างทอง,วิเศษชัยชาญ,Ang Thong ,Wonderful Chaiyan 
+331,14150,อ่างทอง,แสวงหา,Ang Thong ,Seek 
+247,14140,อ่างทอง,ไชโย,Ang Thong ,Bravo! 
+594,15000,ลพบุรี,เมืองลพบุรี,Lop Buri ,Lopburi 
+251,15150,ลพบุรี,ท่าวุ้ง,Lop Buri ,Western 
+263,15140,ลพบุรี,พัฒนานิคม,Lop Buri ,Development 
+262,15240,ลพบุรี,สระโบสถ์,Lop Buri ,Church 
+280,15120,ลพบุรี,โคกสำโรง,Lop Buri ,Khok Samrong 
+610,15000,ลพบุรี,เมืองลพบุรี,Lop Buri ,Lopburi 
+248,16110,สิงห์บุรี,อินทร์บุรี,Sing Buri ,In Buri 
+281,16130,สิงห์บุรี,บางระจัน,Sing Buri ,Bang Rachan 
+534,16120,สิงห์บุรี,พรหมบุรี,Sing Buri ,Phrom Buri 
+562,17000,ชัยนาท,เมืองชัยนาท,Chai Nat ,Chai Nat 
+514,17140,ชัยนาท,สรรคบุรี,Chai Nat ,Prakan Buri 
+362,17000,ชัยนาท,เมืองชัยนาท,Chai Nat ,Chai Nat 
+567,17120,ชัยนาท,วัดสิงห์,Chai Nat ,Wat Sing 
+566,17150,ชัยนาท,สรรพยา,Chai Nat ,Pao 
+561,17120,ชัยนาท,วัดสิงห์,Chai Nat ,Wat Sing 
+213,17140,ชัยนาท,สรรคบุรี,Chai Nat ,Prakan Buri 
+47,17130,ชัยนาท,หันคา,Chai Nat ,Turn 
+404,18110,สระบุรี,แก่งคอย,Saraburi ,Hook 
+577,18110,สระบุรี,แก่งคอย,Saraburi ,Hook 
+576,18220,ลพบุรี,พัฒนานิคม,Lop Buri ,Development 
+384,18260,สระบุรี,แก่งคอย,Saraburi ,Hook 
+552,18150,สระบุรี,วิหารแดง,Saraburi ,Red Cathedral 
+406,18000,สระบุรี,เมืองสระบุรี,Saraburi ,Saraburi City 
+620,18130,สระบุรี,บ้านหมอ,Saraburi ,Doctor house 
+551,18120,สระบุรี,พระพุทธบาท,Saraburi ,Buddha's footprint 
+403,18150,สระบุรี,วิหารแดง,Saraburi ,Red Cathedral 
+348,18140,สระบุรี,หนองแค,Saraburi ,Nong Khae 
+579,18170,สระบุรี,หนองแซง,Saraburi ,Nong Saeng 
+391,18230,สระบุรี,หนองแค,Saraburi ,Nong Khae 
+374,18000,สระบุรี,เมืองสระบุรี,Saraburi ,Saraburi City 
+381,18160,สระบุรี,เสาไห้,Saraburi ,Pole 
+379,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+453,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+349,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+344,20230,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+383,20110,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+394,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+630,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+435,20160,ชลบุรี,พานทอง,Chon Buri ,Phan Thong 
+216,20110,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+307,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+359,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+413,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+489,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+330,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+352,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+554,20110,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+306,20270,ชลบุรี,บ่อทอง,Chon Buri ,Pond 
+372,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+215,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+464,20250,ชลบุรี,สัตหีบ,Chon Buri ,Sattahip 
+402,20160,ชลบุรี,พานทอง,Chon Buri ,Phan Thong 
+361,20160,ชลบุรี,พานทอง,Chon Buri ,Phan Thong 
+500,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+314,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+299,20110,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+525,20130,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+267,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+354,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+573,20230,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+380,20180,ชลบุรี,สัตหีบ,Chon Buri ,Sattahip 
+382,20230,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+234,20110,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+298,20110,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+308,20170,ชลบุรี,บ้านบึง,Chon Buri ,Ban Bueng 
+295,20170,ชลบุรี,บ้านบึง,Chon Buri ,Ban Bueng 
+347,20110,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+311,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+529,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+319,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+467,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+316,20170,ชลบุรี,บ้านบึง,Chon Buri ,Ban Bueng 
+345,20170,ชลบุรี,บ้านบึง,Chon Buri ,Ban Bueng 
+341,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+530,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+531,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+261,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+249,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+264,20170,ชลบุรี,บ้านบึง,Chon Buri ,Ban Bueng 
+441,20240,ชลบุรี,เกาะจันทร์,Chon Buri ,Chanchun 
+545,20110,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+463,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+568,20000,ชลบุรี,เมืองชลบุรี,Chon Buri ,Chonburi 
+553,20230,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+390,20150,ชลบุรี,บางละมุง,Chon Buri ,Bang Lamung 
+346,20230,ชลบุรี,ศรีราชา,Chon Buri ,Sriracha 
+309,21000,ระยอง,เมืองระยอง,Rayong ,Rayong 
+538,21120,ระยอง,บ้านค่าย,Rayong ,Camp House 
+476,21000,ระยอง,เมืองระยอง,Rayong ,Rayong 
+376,21140,ระยอง,ปลวกแดง,Rayong ,Plow 
+350,21000,ระยอง,เมืองระยอง,Rayong ,Rayong 
+587,21140,ระยอง,ปลวกแดง,Rayong ,Plow 
+364,21000,ระยอง,เมืองระยอง,Rayong ,Rayong 
+454,21000,ระยอง,เมืองระยอง,Rayong ,Rayong 
+570,21000,ระยอง,เมืองระยอง,Rayong ,Rayong 
+220,21140,ระยอง,ปลวกแดง,Rayong ,Plow 
+378,21120,ระยอง,บ้านค่าย,Rayong ,Camp House 
+366,21130,ระยอง,บ้านฉาง,Rayong ,Ban Chang 
+555,21110,ระยอง,แกลง,Rayong ,Klaeng 
+165,21160,ระยอง,เมืองระยอง,Rayong ,Rayong 
+227,21000,ระยอง,เมืองระยอง,Rayong ,Rayong 
+111,21000,ระยอง,เมืองระยอง,Rayong ,Rayong 
+470,21130,ระยอง,บ้านฉาง,Rayong ,Ban Chang 
+229,21180,ระยอง,นิคมพัฒนา,Rayong ,Development 
+166,21000,ระยอง,เมืองระยอง,Rayong ,Rayong 
+526,21140,ระยอง,ปลวกแดง,Rayong ,Plow 
+326,21140,ระยอง,ปลวกแดง,Rayong ,Plow 
+524,21120,ระยอง,บ้านค่าย,Rayong ,Camp House 
+466,21130,ระยอง,บ้านฉาง,Rayong ,Ban Chang 
+334,21000,ระยอง,เมืองระยอง,Rayong ,Rayong 
+340,21140,ระยอง,ปลวกแดง,Rayong ,Plow 
+609,21170,ระยอง,แกลง,Rayong ,Klaeng 
+368,21130,ระยอง,บ้านฉาง,Rayong ,Ban Chang 
+324,21110,ระยอง,แกลง,Rayong ,Klaeng 
+320,21000,ระยอง,เมืองระยอง,Rayong ,Rayong 
+574,21150,ระยอง,เมืองระยอง,Rayong ,Rayong 
+631,22140,จันทบุรี,โป่งน้ำร้อน,Chanthaburi ,Hot water 
+621,22210,จันทบุรี,เขาคิชฌกูฏ,Chanthaburi ,Khao Khitchakut 
+615,22120,จันทบุรี,ท่าใหม่,Chanthaburi ,New 
+616,22150,จันทบุรี,ขลุง,Chanthaburi ,Blunt 
+613,22110,จันทบุรี,ขลุง,Chanthaburi ,Blunt 
+389,24160,ฉะเชิงเทรา,สนามชัยเขต,Chachoengsao ,Chai Road 
+449,24120,ฉะเชิงเทรา,พนมสารคาม,Chachoengsao ,Phanom Sarakham 
+509,24160,ฉะเชิงเทรา,สนามชัยเขต,Chachoengsao ,Chai Road 
+465,24000,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,Chachoengsao ,Chachoengsao City 
+293,24130,ฉะเชิงเทรา,บางปะกง,Chachoengsao ,Bang Pakong 
+431,24130,ฉะเชิงเทรา,บางปะกง,Chachoengsao ,Bang Pakong 
+370,24000,ฉะเชิงเทรา,เมืองฉะเชิงเทรา,Chachoengsao ,Chachoengsao City 
+506,24120,ฉะเชิงเทรา,พนมสารคาม,Chachoengsao ,Phanom Sarakham 
+619,24140,ฉะเชิงเทรา,บ้านโพธิ์,Chachoengsao ,Baan Pho 
+510,25000,ปราจีนบุรี,เมืองปราจีนบุรี,Prachin Buri ,Prachinburi 
+459,25130,ปราจีนบุรี,ประจันตคาม,Prachin Buri ,Patakham 
+484,25140,ปราจีนบุรี,ศรีมหาโพธิ,Prachin Buri ,Sri Maha Phot 
+487,25110,ปราจีนบุรี,กบินทร์บุรี,Prachin Buri ,Kabin Buri 
+513,25140,ปราจีนบุรี,ศรีมหาโพธิ,Prachin Buri ,Sri Maha Phot 
+543,25230,ปราจีนบุรี,เมืองปราจีนบุรี,Prachin Buri ,Prachinburi 
+452,25130,ปราจีนบุรี,ประจันตคาม,Prachin Buri ,Patakham 
+516,25230,ปราจีนบุรี,เมืองปราจีนบุรี,Prachin Buri ,Prachinburi 
+565,26000,นครนายก,เมืองนครนายก,Nakhon Nayok ,Nakhon Nayok City 
+421,26110,นครนายก,บ้านนา,Nakhon Nayok ,farmhouse 
+439,26000,นครนายก,เมืองนครนายก,Nakhon Nayok ,Nakhon Nayok City 
+607,27250,สระแก้ว,วังสมบูรณ์,Sa Kaeo ,Wang Somboon 
+608,27000,สระแก้ว,เมืองสระแก้ว,Sa Kaeo ,Sa Kaeo 
+612,30190,นครราชสีมา,โชคชัย,Nakhon Ratchasima ,Luck 
+628,30190,นครราชสีมา,โชคชัย,Nakhon Ratchasima ,Luck 
+575,30130,สระบุรี,มวกเหล็ก,Saraburi ,Pang 
+606,30150,นครราชสีมา,ปักธงชัย,Nakhon Ratchasima ,Flag Chai 
+629,30380,นครราชสีมา,สูงเนิน,Nakhon Ratchasima ,High 
+611,30000,นครราชสีมา,เมืองนครราชสีมา,Nakhon Ratchasima ,Mueang Nakhon Ratchasima 
+617,30340,นครราชสีมา,สีคิ้ว,Nakhon Ratchasima ,Eyebrow 
+641,30000,นครราชสีมา,เมืองนครราชสีมา,Nakhon Ratchasima ,Mueang Nakhon Ratchasima 
+2632,30000,นครราชสีมา,เมืองนครราชสีมา,Nakhon Ratchasima ,Mueang Nakhon Ratchasima 
+627,30250,นครราชสีมา,ครบุรี,Nakhon Ratchasima ,Kru Buri 
+598,30130,สระบุรี,มวกเหล็ก,Saraburi ,Pang 
+646,60000,นครสวรรค์,เมืองนครสวรรค์,Nakhon Sawan ,Mueang Nakhon Sawan 
+632,60120,นครสวรรค์,ชุมแสง,Nakhon Sawan ,Light 
+626,60230,นครสวรรค์,เก้าเลี้ยว,Nakhon Sawan ,Nine 
+603,60190,นครสวรรค์,ตากฟ้า,Nakhon Sawan ,Sky 
+622,60250,นครสวรรค์,ชุมแสง,Nakhon Sawan ,Light 
+590,60130,นครสวรรค์,พยุหะคีรี,Nakhon Sawan ,Horde 
+637,60240,นครสวรรค์,เมืองนครสวรรค์,Nakhon Sawan ,Mueang Nakhon Sawan 
+624,60180,นครสวรรค์,บรรพตพิสัย,Nakhon Sawan ,Aquaculty 
+583,60140,นครสวรรค์,ตาคลี,Nakhon Sawan ,Takhli 
+591,60000,นครสวรรค์,เมืองนครสวรรค์,Nakhon Sawan ,Mueang Nakhon Sawan 
+592,60130,นครสวรรค์,พยุหะคีรี,Nakhon Sawan ,Horde 
+600,60220,นครสวรรค์,ไพศาลี,Nakhon Sawan ,Paiali 
+336,61120,อุทัยธานี,ทัพทัน,Uthai Thani ,Tranquil 
+32,61140,อุทัยธานี,บ้านไร่,Uthai Thani ,farmhouse 
+37,61160,อุทัยธานี,ลานสัก,Uthai Thani ,Tattoo 
+335,61150,อุทัยธานี,สว่างอารมณ์,Uthai Thani ,Bright 
+328,61140,อุทัยธานี,บ้านไร่,Uthai Thani ,farmhouse 
+595,61000,อุทัยธานี,เมืองอุทัยธานี,Uthai Thani ,Uthai Thani 
+8,70150,ราชบุรี,จอมบึง,Ratchaburi ,Swamp 
+30,70150,ราชบุรี,จอมบึง,Ratchaburi ,Swamp 
+50,70180,ราชบุรี,สวนผึ้ง,Ratchaburi ,Garden 
+495,70130,ราชบุรี,ดำเนินสะดวก,Ratchaburi ,Conveniently 
+119,70000,ราชบุรี,เมืองราชบุรี,Ratchaburi ,Ratchaburi 
+128,70120,ราชบุรี,โพธาราม,Ratchaburi ,Photharam 
+89,70150,ราชบุรี,จอมบึง,Ratchaburi ,Swamp 
+25,70130,ราชบุรี,ดำเนินสะดวก,Ratchaburi ,Conveniently 
+511,70110,ราชบุรี,บ้านโป่ง,Ratchaburi ,Ban Pong 
+99,70130,ราชบุรี,ดำเนินสะดวก,Ratchaburi ,Conveniently 
+239,70120,ราชบุรี,โพธาราม,Ratchaburi ,Photharam 
+323,70120,ราชบุรี,โพธาราม,Ratchaburi ,Photharam 
+2,70120,ราชบุรี,โพธาราม,Ratchaburi ,Photharam 
+45,70160,ราชบุรี,บางแพ,Ratchaburi ,Bang Phae 
+137,70180,ราชบุรี,สวนผึ้ง,Ratchaburi ,Garden 
+131,70120,ราชบุรี,โพธาราม,Ratchaburi ,Photharam 
+571,70110,ราชบุรี,บ้านโป่ง,Ratchaburi ,Ban Pong 
+58,70130,ราชบุรี,ดำเนินสะดวก,Ratchaburi ,Conveniently 
+300,70000,ราชบุรี,เมืองราชบุรี,Ratchaburi ,Ratchaburi 
+339,70110,ราชบุรี,บ้านโป่ง,Ratchaburi ,Ban Pong 
+63,70130,ราชบุรี,ดำเนินสะดวก,Ratchaburi ,Conveniently 
+270,70140,ราชบุรี,ปากท่อ,Ratchaburi ,Pipe 
+143,70140,ราชบุรี,ปากท่อ,Ratchaburi ,Pipe 
+56,70140,ราชบุรี,ปากท่อ,Ratchaburi ,Pipe 
+91,70110,ราชบุรี,บ้านโป่ง,Ratchaburi ,Ban Pong 
+59,70170,ราชบุรี,วัดเพลง,Ratchaburi ,Measure music 
+11,70120,ราชบุรี,โพธาราม,Ratchaburi ,Photharam 
+82,70180,ราชบุรี,สวนผึ้ง,Ratchaburi ,Garden 
+129,70000,ราชบุรี,เมืองราชบุรี,Ratchaburi ,Ratchaburi 
+76,70120,ราชบุรี,โพธาราม,Ratchaburi ,Photharam 
+325,70000,ราชบุรี,เมืองราชบุรี,Ratchaburi ,Ratchaburi 
+86,70110,ราชบุรี,บ้านโป่ง,Ratchaburi ,Ban Pong 
+66,70000,ราชบุรี,เมืองราชบุรี,Ratchaburi ,Ratchaburi 
+78,70120,ราชบุรี,โพธาราม,Ratchaburi ,Photharam 
+55,70000,ราชบุรี,เมืองราชบุรี,Ratchaburi ,Ratchaburi 
+43,70000,ราชบุรี,เมืองราชบุรี,Ratchaburi ,Ratchaburi 
+29,70000,ราชบุรี,เมืองราชบุรี,Ratchaburi ,Ratchaburi 
+87,70110,ราชบุรี,บ้านโป่ง,Ratchaburi ,Ban Pong 
+40,70000,ราชบุรี,เมืองราชบุรี,Ratchaburi ,Ratchaburi 
+64,70110,ราชบุรี,บ้านโป่ง,Ratchaburi ,Ban Pong 
+48,70160,ราชบุรี,บางแพ,Ratchaburi ,Bang Phae 
+231,70110,ราชบุรี,บ้านโป่ง,Ratchaburi ,Ban Pong 
+146,71000,กาญจนบุรี,เมืองกาญจนบุรี,Kanchanaburi ,Kanchanaburi 
+268,71000,กาญจนบุรี,เมืองกาญจนบุรี,Kanchanaburi ,Kanchanaburi 
+471,71140,กาญจนบุรี,พนมทวน,Kanchanaburi ,Phanomwan 
+70,71260,กาญจนบุรี,ด่านมะขามเตี้ย,Kanchanaburi ,Makham Tia 
+22,71180,กาญจนบุรี,ทองผาภูมิ,Kanchanaburi ,Thong Phahum 
+183,71180,กาญจนบุรี,ทองผาภูมิ,Kanchanaburi ,Thong Phahum 
+4,71120,กาญจนบุรี,ท่ามะกา,Kanchanaburi ,Tha Maka 
+639,71160,กาญจนบุรี,บ่อพลอย,Kanchanaburi ,Pond 
+150,71160,กาญจนบุรี,บ่อพลอย,Kanchanaburi ,Pond 
+532,71130,กาญจนบุรี,ท่ามะกา,Kanchanaburi ,Tha Maka 
+286,71000,กาญจนบุรี,เมืองกาญจนบุรี,Kanchanaburi ,Kanchanaburi 
+136,71000,กาญจนบุรี,เมืองกาญจนบุรี,Kanchanaburi ,Kanchanaburi 
+65,71000,กาญจนบุรี,เมืองกาญจนบุรี,Kanchanaburi ,Kanchanaburi 
+125,71140,กาญจนบุรี,พนมทวน,Kanchanaburi ,Phanomwan 
+236,71150,กาญจนบุรี,ไทรโยค,Kanchanaburi ,Sai Yok 
+158,71110,กาญจนบุรี,ท่าม่วง,Kanchanaburi ,In 
+205,71260,กาญจนบุรี,ด่านมะขามเตี้ย,Kanchanaburi ,Makham Tia 
+238,71140,กาญจนบุรี,พนมทวน,Kanchanaburi ,Phanomwan 
+44,71000,กาญจนบุรี,เมืองกาญจนบุรี,Kanchanaburi ,Kanchanaburi 
+588,71180,กาญจนบุรี,ทองผาภูมิ,Kanchanaburi ,Thong Phahum 
+10,71120,กาญจนบุรี,ท่ามะกา,Kanchanaburi ,Tha Maka 
+113,71110,กาญจนบุรี,ท่าม่วง,Kanchanaburi ,In 
+187,71120,กาญจนบุรี,ท่ามะกา,Kanchanaburi ,Tha Maka 
+34,71240,กาญจนบุรี,สังขละบุรี,Kanchanaburi ,Sangkhla Buri 
+228,71110,กาญจนบุรี,ท่าม่วง,Kanchanaburi ,In 
+149,71110,กาญจนบุรี,ท่าม่วง,Kanchanaburi ,In 
+585,71210,กาญจนบุรี,เลาขวัญ,Kanchanaburi ,Be aware of 
+61,71220,กาญจนบุรี,บ่อพลอย,Kanchanaburi ,Pond 
+93,71210,กาญจนบุรี,เลาขวัญ,Kanchanaburi ,Be aware of 
+593,71220,กาญจนบุรี,บ่อพลอย,Kanchanaburi ,Pond 
+120,71110,กาญจนบุรี,ท่าม่วง,Kanchanaburi ,In 
+269,71170,กาญจนบุรี,พนมทวน,Kanchanaburi ,Phanomwan 
+204,71120,กาญจนบุรี,ท่ามะกา,Kanchanaburi ,Tha Maka 
+151,71210,กาญจนบุรี,เลาขวัญ,Kanchanaburi ,Be aware of 
+186,71000,กาญจนบุรี,เมืองกาญจนบุรี,Kanchanaburi ,Kanchanaburi 
+342,71130,กาญจนบุรี,ท่ามะกา,Kanchanaburi ,Tha Maka 
+101,71150,กาญจนบุรี,ไทรโยค,Kanchanaburi ,Sai Yok 
+363,72160,สุพรรณบุรี,อู่ทอง,Suphan Buri ,Garage 
+17,72170,สุพรรณบุรี,ดอนเจดีย์,Suphan Buri ,Don Pagoda 
+16,72180,สุพรรณบุรี,ด่านช้าง,Suphan Buri ,Checkpoint 
+19,72180,สุพรรณบุรี,ด่านช้าง,Suphan Buri ,Checkpoint 
+440,72140,สุพรรณบุรี,ศรีประจันต์,Suphan Buri ,Sri Prachan 
+338,72000,สุพรรณบุรี,เมืองสุพรรณบุรี,Suphan Buri ,Mueang Suphan Buri 
+21,72120,สุพรรณบุรี,เดิมบางนางบวช,Suphan Buri ,Originally 
+28,72000,สุพรรณบุรี,เมืองสุพรรณบุรี,Suphan Buri ,Mueang Suphan Buri 
+190,72170,สุพรรณบุรี,ดอนเจดีย์,Suphan Buri ,Don Pagoda 
+469,72110,สุพรรณบุรี,สองพี่น้อง,Suphan Buri ,Two brothers 
+274,72110,สุพรรณบุรี,สองพี่น้อง,Suphan Buri ,Two brothers 
+38,72150,สุพรรณบุรี,บางปลาม้า,Suphan Buri ,Some fish 
+39,72110,สุพรรณบุรี,สองพี่น้อง,Suphan Buri ,Two brothers 
+541,72110,สุพรรณบุรี,สองพี่น้อง,Suphan Buri ,Two brothers 
+277,72140,สุพรรณบุรี,ศรีประจันต์,Suphan Buri ,Sri Prachan 
+519,72160,สุพรรณบุรี,อู่ทอง,Suphan Buri ,Garage 
+245,72180,สุพรรณบุรี,ด่านช้าง,Suphan Buri ,Checkpoint 
+275,72150,สุพรรณบุรี,บางปลาม้า,Suphan Buri ,Some fish 
+168,72130,สุพรรณบุรี,สามชุก,Suphan Buri ,Triple 
+148,72000,สุพรรณบุรี,เมืองสุพรรณบุรี,Suphan Buri ,Mueang Suphan Buri 
+497,72140,สุพรรณบุรี,ศรีประจันต์,Suphan Buri ,Sri Prachan 
+296,72000,สุพรรณบุรี,เมืองสุพรรณบุรี,Suphan Buri ,Mueang Suphan Buri 
+194,72140,สุพรรณบุรี,ศรีประจันต์,Suphan Buri ,Sri Prachan 
+154,72170,สุพรรณบุรี,ดอนเจดีย์,Suphan Buri ,Don Pagoda 
+283,72160,สุพรรณบุรี,อู่ทอง,Suphan Buri ,Garage 
+23,72000,สุพรรณบุรี,เมืองสุพรรณบุรี,Suphan Buri ,Mueang Suphan Buri 
+24,72130,สุพรรณบุรี,สามชุก,Suphan Buri ,Triple 
+226,72120,สุพรรณบุรี,เดิมบางนางบวช,Suphan Buri ,Originally 
+278,72000,สุพรรณบุรี,เมืองสุพรรณบุรี,Suphan Buri ,Mueang Suphan Buri 
+210,72180,สุพรรณบุรี,ด่านช้าง,Suphan Buri ,Checkpoint 
+49,72240,สุพรรณบุรี,หนองหญ้าไซ,Suphan Buri ,Nong Ya Sai 
+36,72000,สุพรรณบุรี,เมืองสุพรรณบุรี,Suphan Buri ,Mueang Suphan Buri 
+20,72160,สุพรรณบุรี,อู่ทอง,Suphan Buri ,Garage 
+291,72000,สุพรรณบุรี,เมืองสุพรรณบุรี,Suphan Buri ,Mueang Suphan Buri 
+297,72150,สุพรรณบุรี,บางปลาม้า,Suphan Buri ,Some fish 
+46,73140,นครปฐม,กำแพงแสน,Nakhon Pathom ,Great Wall 
+294,73110,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+223,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+195,73120,นครปฐม,นครชัยศรี,Nakhon Pathom ,Nakhon Chai Si 
+625,73210,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+446,73160,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+12,73150,นครปฐม,ดอนตูม,Nakhon Pathom ,Don Tum 
+127,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+477,73210,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+53,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+292,73110,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+597,73140,นครปฐม,กำแพงแสน,Nakhon Pathom ,Great Wall 
+430,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+290,73130,นครปฐม,บางเลน,Nakhon Pathom ,Bang Len 
+138,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+412,73220,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+285,73130,นครปฐม,บางเลน,Nakhon Pathom ,Bang Len 
+159,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+116,73120,นครปฐม,นครชัยศรี,Nakhon Pathom ,Nakhon Chai Si 
+142,73130,นครปฐม,บางเลน,Nakhon Pathom ,Bang Len 
+343,73130,นครปฐม,บางเลน,Nakhon Pathom ,Bang Len 
+411,73150,นครปฐม,ดอนตูม,Nakhon Pathom ,Don Tum 
+74,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+185,73110,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+94,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+121,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+547,73140,นครปฐม,กำแพงแสน,Nakhon Pathom ,Great Wall 
+535,73140,นครปฐม,กำแพงแสน,Nakhon Pathom ,Great Wall 
+287,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+493,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+474,73140,นครปฐม,กำแพงแสน,Nakhon Pathom ,Great Wall 
+132,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+72,73110,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+105,73170,นครปฐม,พุทธมณฑล,Nakhon Pathom ,Phutthamonthon 
+284,73140,นครปฐม,กำแพงแสน,Nakhon Pathom ,Great Wall 
+52,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+242,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+13,73110,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+110,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+225,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+429,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+176,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+57,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+415,73120,นครปฐม,นครชัยศรี,Nakhon Pathom ,Nakhon Chai Si 
+15,73120,นครปฐม,นครชัยศรี,Nakhon Pathom ,Nakhon Chai Si 
+79,73110,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+123,73110,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+51,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+189,73110,นครปฐม,สามพราน,Nakhon Pathom ,Sam Phran 
+507,73120,นครปฐม,นครชัยศรี,Nakhon Pathom ,Nakhon Chai Si 
+289,73120,นครปฐม,นครชัยศรี,Nakhon Pathom ,Nakhon Chai Si 
+276,73000,นครปฐม,เมืองนครปฐม,Nakhon Pathom ,Nakhon Pathom 
+54,74110,สมุทรสาคร,กระทุ่มแบน,Samut Sakhon ,Flat strike 
+144,74110,สมุทรสาคร,กระทุ่มแบน,Samut Sakhon ,Flat strike 
+97,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+164,74120,สมุทรสาคร,บ้านแพ้ว,Samut Sakhon ,Phaya House 
+419,74110,สมุทรสาคร,กระทุ่มแบน,Samut Sakhon ,Flat strike 
+455,74110,สมุทรสาคร,กระทุ่มแบน,Samut Sakhon ,Flat strike 
+580,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+197,74110,สมุทรสาคร,กระทุ่มแบน,Samut Sakhon ,Flat strike 
+171,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+84,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+156,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+109,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+130,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+140,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+102,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+33,74120,สมุทรสาคร,บ้านแพ้ว,Samut Sakhon ,Phaya House 
+107,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+492,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+502,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+167,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+182,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+191,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+106,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+422,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+178,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+124,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+199,74110,สมุทรสาคร,กระทุ่มแบน,Samut Sakhon ,Flat strike 
+175,74110,สมุทรสาคร,กระทุ่มแบน,Samut Sakhon ,Flat strike 
+157,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+139,74110,สมุทรสาคร,กระทุ่มแบน,Samut Sakhon ,Flat strike 
+108,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+288,74110,สมุทรสาคร,กระทุ่มแบน,Samut Sakhon ,Flat strike 
+160,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+71,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+80,74000,สมุทรสาคร,เมืองสมุทรสาคร,Samut Sakhon ,Mueang Samut Sakhon 
+211,75000,สมุทรสงคราม,เมืองสมุทรสงคราม,Samut Songkhram ,Samut Songkhram 
+207,75120,สมุทรสงคราม,บางคนที,Samut Songkhram ,Some people 
+122,75000,สมุทรสงคราม,เมืองสมุทรสงคราม,Samut Songkhram ,Samut Songkhram 
+103,75000,สมุทรสงคราม,เมืองสมุทรสงคราม,Samut Songkhram ,Samut Songkhram 
+75,75120,สมุทรสงคราม,บางคนที,Samut Songkhram ,Some people 
+69,75000,สมุทรสงคราม,เมืองสมุทรสงคราม,Samut Songkhram ,Samut Songkhram 
+209,75000,สมุทรสงคราม,เมืองสมุทรสงคราม,Samut Songkhram ,Samut Songkhram 
+200,75110,สมุทรสงคราม,อัมพวา,Samut Songkhram ,Amphawa 
+212,75110,สมุทรสงคราม,อัมพวา,Samut Songkhram ,Amphawa 
+179,75000,สมุทรสงคราม,เมืองสมุทรสงคราม,Samut Songkhram ,Samut Songkhram 
+184,75110,สมุทรสงคราม,อัมพวา,Samut Songkhram ,Amphawa 
+126,75000,สมุทรสงคราม,เมืองสมุทรสงคราม,Samut Songkhram ,Samut Songkhram 
+35,76120,เพชรบุรี,ชะอำ,Phetchaburi ,Cha 
+100,76120,เพชรบุรี,ชะอำ,Phetchaburi ,Cha 
+518,76000,เพชรบุรี,เมืองเพชรบุรี,Phetchaburi ,Phetchaburi 
+141,76160,เพชรบุรี,หนองหญ้าปล้อง,Phetchaburi ,Nong Ya Plong 
+41,76130,เพชรบุรี,ท่ายาง,Phetchaburi ,Rubber posture 
+114,76130,เพชรบุรี,ท่ายาง,Phetchaburi ,Rubber posture 
+112,76000,เพชรบุรี,เมืองเพชรบุรี,Phetchaburi ,Phetchaburi 
+522,76110,เพชรบุรี,บ้านแหลม,Phetchaburi ,Cape House 
+582,76120,เพชรบุรี,ชะอำ,Phetchaburi ,Cha 
+528,76110,เพชรบุรี,บ้านแหลม,Phetchaburi ,Cape House 
+321,76000,เพชรบุรี,เมืองเพชรบุรี,Phetchaburi ,Phetchaburi 
+596,76130,เพชรบุรี,ท่ายาง,Phetchaburi ,Rubber posture 
+42,76150,เพชรบุรี,บ้านลาด,Phetchaburi ,Slope house 
+95,76000,เพชรบุรี,เมืองเพชรบุรี,Phetchaburi ,Phetchaburi 
+62,76110,เพชรบุรี,บ้านแหลม,Phetchaburi ,Cape House 
+564,76170,เพชรบุรี,แก่งกระจาน,Phetchaburi ,Kaeng Krachan 
+475,76000,เพชรบุรี,เมืองเพชรบุรี,Phetchaburi ,Phetchaburi 
+246,76140,เพชรบุรี,เขาย้อย,Phetchaburi ,Khao Yoi 
+134,76160,เพชรบุรี,หนองหญ้าปล้อง,Phetchaburi ,Nong Ya Plong 
+169,76000,เพชรบุรี,เมืองเพชรบุรี,Phetchaburi ,Phetchaburi 
+232,76110,เพชรบุรี,บ้านแหลม,Phetchaburi ,Cape House 
+152,76130,เพชรบุรี,ท่ายาง,Phetchaburi ,Rubber posture 
+104,74130,สมุทรสาคร,กระทุ่มแบน,Samut Sakhon ,Flat strike 
+98,76170,เพชรบุรี,แก่งกระจาน,Phetchaburi ,Kaeng Krachan 
+133,76000,เพชรบุรี,เมืองเพชรบุรี,Phetchaburi ,Phetchaburi 
+515,76150,เพชรบุรี,บ้านลาด,Phetchaburi ,Slope house 
+68,76000,เพชรบุรี,เมืองเพชรบุรี,Phetchaburi ,Phetchaburi 
+517,76150,เพชรบุรี,บ้านลาด,Phetchaburi ,Slope house 
+96,77150,ประจวบคีรีขันธ์,กุยบุรี,Prachuap Khiri Khan ,Kui Buri 
+145,77000,ประจวบคีรีขันธ์,เมืองประจวบคีรีขันธ์,Prachuap Khiri Khan ,Mueang Prachuap Khiri Khan 
+356,77110,ประจวบคีรีขันธ์,หัวหิน,Prachuap Khiri Khan ,Hua Hin 
+558,77120,ประจวบคีรีขันธ์,ปราณบุรี,Prachuap Khiri Khan ,Pranburi 
+85,77130,ประจวบคีรีขันธ์,ทับสะแก,Prachuap Khiri Khan ,Sakae 
+92,77140,ประจวบคีรีขันธ์,บางสะพาน,Prachuap Khiri Khan ,Bang Saphan 
+563,77110,ประจวบคีรีขันธ์,หัวหิน,Prachuap Khiri Khan ,Hua Hin 
+67,77120,ประจวบคีรีขันธ์,ปราณบุรี,Prachuap Khiri Khan ,Pranburi 
+153,77120,ประจวบคีรีขันธ์,ปราณบุรี,Prachuap Khiri Khan ,Pranburi 
+155,77110,ประจวบคีรีขันธ์,หัวหิน,Prachuap Khiri Khan ,Hua Hin 
+81,77180,ประจวบคีรีขันธ์,สามร้อยยอด,Prachuap Khiri Khan ,Three hundred 
+557,77150,ประจวบคีรีขันธ์,กุยบุรี,Prachuap Khiri Khan ,Kui Buri 
+282,77130,ประจวบคีรีขันธ์,ทับสะแก,Prachuap Khiri Khan ,Sakae 
+206,77000,ประจวบคีรีขันธ์,เมืองประจวบคีรีขันธ์,Prachuap Khiri Khan ,Mueang Prachuap Khiri Khan 
+115,77000,ประจวบคีรีขันธ์,เมืองประจวบคีรีขันธ์,Prachuap Khiri Khan ,Mueang Prachuap Khiri Khan 
+83,77000,ประจวบคีรีขันธ์,เมืองประจวบคีรีขันธ์,Prachuap Khiri Khan ,Mueang Prachuap Khiri Khan 
+88,86140,ชุมพร,ท่าแซะ,Chumphon ,Tha Se 

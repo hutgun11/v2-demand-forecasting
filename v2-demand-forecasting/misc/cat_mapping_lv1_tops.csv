@@ -1,0 +1,447 @@
+product_cat_lv1,product_cat_lv2,product_cat_lv3
+beverages,fruit juice,100% juice
+beverages,health tonics,bird's nest
+beverages,bottled water,bottled water
+beverages,powder health tonic,cocoa powder
+beverages,coffee,coffee
+beverages,coffee,coffee capsule
+beverages,coffee,coffee creamers
+beverages,coffee,coffee machine and accessories
+beverages,soft drink and mixers,cola
+beverages,soft drink and mixers,concentrated drinks
+beverages,fruit juice,concentrated juice
+beverages,bottled water,drinking water
+beverages,functional drinks,energy and sports drinks
+beverages,health tonics,essence of chicken
+beverages,health tonics,chicken essence basket
+beverages,soft drink and mixers,flavored soft drinks
+beverages,uht milk,flavored uht milk
+beverages,fruit juice,fresh juice
+beverages,fruit juice,fruit juice
+beverages,functional drinks,functional drinks
+beverages,health tonics,health tonics
+beverages,fruit juice,herbal juice
+beverages,tea,herbal tea
+beverages,powder health tonic,instant chocolate and malt powder
+beverages,coffee,instant coffee
+beverages,coffee,instant coffee mixes
+beverages,tea,instant tea mix
+beverages,fruit juice,jelly juice
+beverages,uht milk,maternity uht milk
+beverages,bottled water,mineral water
+beverages,fruit juice,mixed juice
+beverages,non alcoholic,non-alcoholic
+beverages,health tonics,nutrition drinks
+beverages,uht milk,plain uht milk
+beverages,powder health tonic,powder health tonic
+beverages,coffee,ready to drink coffee
+beverages,tea,ready to drink tea
+beverages,coffee,roast and ground coffee
+beverages,soft drink and mixers,soda and mixers
+beverages,soft drink mixers,soft drink mixers
+beverages,powder health tonic,soy and cereal beverages
+beverages,health tonics,speacialty milk powder
+beverages,health tonics,sterilized milk
+beverages,tea,tea
+beverages,tea,tea bag
+beverages,tea,tea leaves
+beverages,uht milk,uht dairy free
+beverages,uht milk,uht milk
+beverages,uht milk,uht yogurt drink
+beverages,bottled water,vitamin water
+fresh food bakery,bakery,bakery
+fresh food bakery,cheese,blue cheese
+fresh food bakery,butter cream,butter
+fresh food bakery,butter cream,butter cream
+fresh food bakery,bakery,cakes
+fresh food bakery,cheese,cheese
+fresh food bakery,cheese,cheese spread and snack
+fresh food bakery,chilled foods,chilled foods
+fresh food bakery,chilled foods,chilled local deli
+fresh food bakery,deli meat,chinese sausage and dried meat
+fresh food bakery,butter cream,cooking cream
+fresh food bakery,cheese,cream and cottage cheese
+fresh food bakery,bakery,croissants
+fresh food bakery,fresh milk,dairy free milk
+fresh food bakery,yogurt,dairy free yogurt
+fresh food bakery,bakery,danish puff pastry
+fresh food bakery,deli meat,deli meat
+fresh food bakery,yogurt,drinking yogurt
+fresh food bakery,egg,egg
+fresh food bakery,bakery,european bread
+fresh food bakery,fresh milk,flavored milk
+fresh food bakery,yogurt,flavored yogurt
+fresh food bakery,frozen food,french fries
+fresh food bakery,egg,fresh eggs
+fresh food bakery,fresh milk,fresh milk
+fresh food bakery,tofu and fresh noodle,fresh noodle
+fresh food bakery,frozen food,frozen food
+fresh food bakery,frozen food,frozen fruit
+fresh food bakery,frozen food,frozen meals
+fresh food bakery,frozen food,frozen vegetables
+fresh food bakery,deli meat,ham and bacon
+fresh food bakery,cheese,hard cheese
+fresh food bakery,chilled foods,japanese and korean deli
+fresh food bakery,deli meat,local sausages
+fresh food bakery,butter cream,margarine
+fresh food bakery,deli meat,meat balls and surimi
+fresh food bakery,cheese,other cheeses
+fresh food bakery,deli meat,pate foie gras
+fresh food bakery,fresh milk,plain milk
+fresh food bakery,yogurt,plain yogurt
+fresh food bakery,egg,preserved eggs
+fresh food bakery,chilled foods,ready to eat meal
+fresh food bakery,bakery,rolls and buns
+fresh food bakery,deli meat,sausages
+fresh food bakery,cheese,semi hard cheese
+fresh food bakery,cheese,sliced and grated cheese
+fresh food bakery,bakery,sliced bread
+fresh food bakery,deli meat,smoked meat
+fresh food bakery,cheese,soft cheese
+fresh food bakery,butter cream,sour cream
+fresh food bakery,tofu and fresh noodle,tofu 
+fresh food bakery,tofu fresh noodle,tofu fresh noodle
+fresh food bakery,chilled foods,western deli
+fresh food bakery,butter cream,whipping cream
+fresh food bakery,bakery,wraps pittas and naan
+fresh food bakery,yogurt,yogurt
+fruit and vegetables,fresh fruit,apples and pears
+fruit and vegetables,salad,bagged and ready salad
+fruit and vegetables,preserved fruit and vegetables,dried fruits
+fruit and vegetables,vegetables,dried vegetables
+fruit and vegetables,fresh fruit,fresh fruit
+fruit and vegetables,vegetables,fresh vegetables
+fruit and vegetables,preserved fruit and vegetables,fruit desserts
+fruit and vegetables,preserved fruit and vegetables,fruit dipping
+fruit and vegetables,fresh fruit,grapes cherries berries
+fruit and vegetables,fresh fruit,in season
+fruit and vegetables,vegetables,mushroom
+fruit and vegetables,fresh fruit,orange and pomelo
+fruit and vegetables,fresh fruit,other fruits
+fruit and vegetables,preserved fruit vegetables,preserved fruit vegetables
+fruit and vegetables,preserved fruit and vegetables,preserved vegetables
+fruit and vegetables,salad,salad
+fruit and vegetables,fresh fruit,tropical fruits and melon
+fruit and vegetables,vegetables,vegetables
+health and beauty care,facial care,acne medication
+health and beauty care,incontinence,adult diapers pant
+health and beauty care,incontinence,adult diapers tape
+health and beauty care,body care,bar soap
+health and beauty care,incontinence,bed liners
+health and beauty care,makeup,blush on
+health and beauty care,body care,body care
+health and beauty care,body care,body care accessories
+health and beauty care,body care,body lotion
+health and beauty care,body care,health and beauty care
+health and beauty care,health and supplement,condoms and lubricants
+health and beauty care,health and supplement,night sanitary napkin
+health and beauty care,health and supplement,day sanitary napkin
+health and beauty care,health and supplement,panty liners
+health and beauty care,facial care,cotton and accessories
+health and beauty care,hand and foot care,cream and lotion
+health and beauty care,oral care,dental care
+health and beauty care,body care,deodorants and body scent
+health and beauty care,facial care,eye care
+health and beauty care,makeup,eyes and brows
+health and beauty care,facial care,facial blotters and wipes
+health and beauty care,facial care,facial care
+health and beauty care,facial care,facial cleanser
+health and beauty care,facial care,facial mask
+health and beauty care,facial care,facial moisturizer
+health and beauty care,facial care,facial sunscreen
+health and beauty care,facial care,facial toner
+health and beauty care,health and supplement,first aid and bandages
+health and beauty care,makeup,foundation and facial powder
+health and beauty care,hair care,hair accessories
+health and beauty care,hair care,hair care
+health and beauty care,hair care,hair coloring
+health and beauty care,hair care,hair conditioner
+health and beauty care,hair care,hair styling
+health and beauty care,hair care,hair treatment
+health and beauty care,hand and foot care,hand soap
+health and beauty care,health and supplement,health care equipment
+health and beauty care,body care,feminine wash
+health and beauty care,health supplement,health and supplement
+health and beauty care,hand and foot care,heel care accessories
+health and beauty care,incontinence,incontinence accessories
+health and beauty care,incontinence,incontinence pads
+health and beauty care,health and supplement,inhalant and balms
+health and beauty care,facial care,lip care
+health and beauty care,makeup,lips
+health and beauty care,body care,liquid soap
+health and beauty care,makeup,makeup accessories
+health and beauty care,facial care,makeup remover
+health and beauty care,health and supplement,mask
+health and beauty care,health and supplement,medicine
+health and beauty care,oral care,mouthwash
+health and beauty care,makeup,nail care
+health and beauty care,hand and foot care,nail care accessories
+health and beauty care,oral care,oral care
+health and beauty care,hair care,shampoo
+health and beauty care,body care,shaving and hair remover
+health and beauty care,body care,spa treatment
+health and beauty care,body care,stretch mark
+health and beauty care,body care,sunscreen
+health and beauty care,body care,talcum powder
+health and beauty care,oral care,toothbrush
+health and beauty care,oral care,toothpaste
+health and beauty care,health and supplement,vitamins and supplements
+household and pet,air fresheners,aerosol air fresheners
+household and pet,air fresheners,air deodorizer blocks
+household and pet,air fresheners,air fresheners
+household and pet,batteries and appliances,appliances
+household and pet,household cleaners,bathroom cleaners
+household and pet,batteries and appliances,batteries
+household and pet,laundry,bleach and stain remover
+household and pet,cleaning tool,brooms and dust pans
+household and pet,merit set,candles and incense
+household and pet,air fresheners,car air fresheners
+household and pet,miscellaneous,car care
+household and pet,pet care,cat dry food
+household and pet,pet care,cat litter
+household and pet,pet care,cat snacks
+household and pet,pet care,cat wet food
+household and pet,tissue paper,cocktail napkins
+household and pet,air fresheners,continuous air fresheners
+household and pet,kitchen supplies,cooking utensils
+household and pet,dish cleaner,dish cleaner
+household and pet,dish cleaner,dish detergent
+household and pet,kitchen supplies,disposable tableware
+household and pet,pet care,dog dry food
+household and pet,pet care,dog treats
+household and pet,pet care,dog wet food
+household and pet,household cleaners,drain openers
+household and pet,laundry,fabric softener
+household and pet,tissue paper,facial tissue
+household and pet,miscellaneous,fashion
+household and pet,household cleaners,floor cleaners
+household and pet,kitchen supplies,food containers
+household and pet,kitchen supplies,food wraps
+household and pet,dish cleaner,fruit and vegetables wash
+household and pet,kitchen supplies,garbage bags
+household and pet,laundry,gel ball detergent
+household and pet,household cleaners,glass cleaners
+household and pet,pet care,grooming
+household and pet,household cleaners,household cleaners
+household and pet,household cleaners,in tank and rim blocks
+household and pet,pest control,insect baits traps and poison
+household and pet,pest control,insect repellent
+household and pet,pest control,insecticide coils
+household and pet,pest control,insecticide electric
+household and pet,pest control,insecticide sprays
+household and pet,household cleaners,kitchen cleaners
+household and pet,tissue paper,kitchen towels
+household and pet,kitchen supplies,kitchen utensils
+household and pet,laundry,laundry
+household and pet,laundry,laundry accessories
+household and pet,batteries and appliances,lighting
+household and pet,laundry,liquid detergent
+household and pet,dish cleaner,machine dishwashing detergent
+household and pet,miscellaneous,miscellaneous
+household and pet,tissue paper,moist wipes
+household and pet,merit set,monk gift baskets
+household and pet,cleaning tool,mops
+household and pet,household cleaners,multi purposes cleaners
+household and pet,cleaning tool,pails and garbage cans
+household and pet,miscellaneous,party supplies
+household and pet,pest control,pest control
+household and pet,pet care,pet accessories and toys
+household and pet,pet care,pet diaper training pads
+household and pet,pet care,pet grooming
+household and pet,pet care,pet health care
+household and pet,pet care,pet snacks and treats
+household and pet,kitchen supplies,plastic bags and ties
+household and pet,laundry,powder detergent
+household and pet,merit set,religious accessories
+household and pet,pest control,rodent traps and poison
+household and pet,cleaning tool,rubber gloves
+household and pet,cleaning tool,scouring pads
+household and pet,cleaning tool,scrub brushes and toilet scrubbers
+household and pet,pet care,small pet food
+household and pet,dish cleaner,soap dish detergent
+household and pet,household cleaners,specialty cleaners
+household and pet,pet care,specialty pet food
+household and pet,cleaning tool,sponges
+household and pet,laundry,spray starch
+household and pet,miscellaneous,stationery
+household and pet,miscellaneous,essences gift basket
+household and pet,tissue paper,tissue paper
+household and pet,household cleaners,toilet bowl cleaners
+household and pet,tissue paper,toilet tissue
+meat and seafood,beef lamb,beef
+meat and seafood,beef lamb,beef lamb
+meat and seafood,poultry,chicken
+meat and seafood,fish and seafood,dried seafood
+meat and seafood,fish and seafood,fish
+meat and seafood,beef lamb,lamb
+meat and seafood,marinated meat,marinated meat
+meat and seafood,pork,pork
+meat and seafood,poultry,poultry
+meat and seafood,marinated meat,processed seafood
+meat and seafood,marinated meat,ready to eat meat
+meat and seafood,fish and seafood,seafood
+mom and kids,milk powder,1 plus
+mom and kids,milk powder,3 plus
+mom and kids,baby accessories,baby accessories
+mom and kids,baby health care,baby bottle detergent
+mom and kids,baby health care,baby detergent
+mom and kids,baby diapers,baby diapers
+mom and kids,baby diapers,baby diapers pants
+mom and kids,baby diapers,baby diapers tape
+mom and kids,baby health care,baby fabric softener
+mom and kids,baby feeding,baby feeding
+mom and kids,baby food,baby food
+mom and kids,baby health care,baby health care
+mom and kids,baby health care,baby lotion and oil
+mom and kids,baby health care,baby powder
+mom and kids,baby health care,baby shampoo
+mom and kids,baby health care,baby soap
+mom and kids,baby diapers,baby wipes
+mom and kids,baby accessories,baby's toys
+mom and kids,baby accessories,kid's toys
+mom and kids,baby accessories,surprise bag
+mom and kids,baby feeding,breast milk storage bag
+mom and kids,baby feeding,feeding accessories
+mom and kids,milk powder,follow on formula 6 to12 months
+mom and kids,baby food,infant cereal
+mom and kids,milk powder,infant formula (0 to 6 months)
+mom and kids,baby health care,kid's toothbrush
+mom and kids,baby health care,kid's toothpaste
+mom and kids,baby food,kid's cereal
+mom and kids,uht milk,kids uht milk
+mom and kids,maternity care,maternity care
+mom and kids,milk powder,maternity milk powder
+mom and kids,milk powder,speacialty formulated
+pantry and ingredients,sugar and sweeteners,artificial sweeteners
+pantry and ingredients,sugar and sweeteners,bakery sugar
+pantry and ingredients,baking and dessert ingredients,baking accessories
+pantry and ingredients,baking dessert ingredients,baking dessert ingredients
+pantry and ingredients,baking and dessert ingredients,baking ingredients
+pantry and ingredients,flour noodles and pasta,bread crumbs and crispy flour
+pantry and ingredients,rice,brown rice
+pantry and ingredients,baking and dessert ingredients,butter and margarine
+pantry and ingredients,canned food,canned fish
+pantry and ingredients,canned food,canned food
+pantry and ingredients,canned food,canned fruit
+pantry and ingredients,canned food,canned seafood
+pantry and ingredients,canned food,canned vegetables
+pantry and ingredients,cereal,cereal
+pantry and ingredients,cereal,cereal bars
+pantry and ingredients,cereal,cereal beverages
+pantry and ingredients,dried ingredients,chia seeds and flax seed
+pantry and ingredients,cereal,chia seeds flax seed
+pantry and ingredients,sauces,chili sauce
+pantry and ingredients,flour noodles and pasta,chips and rice paper
+pantry and ingredients,baking and dessert ingredients,chocolate and cocoa powder
+pantry and ingredients,preserves spreads,chocolate and custard spread
+pantry and ingredients,seasonings and spices,coconut milk
+pantry and ingredients,cooking oils,coconut oil
+pantry and ingredients,sugar and sweeteners,coffee sugar
+pantry and ingredients,canned food,condensed milk
+pantry and ingredients,condiments,condiments
+pantry and ingredients,cooking oils,cooking oils
+pantry and ingredients,sugar and sweeteners,cooking sugar
+pantry and ingredients,seasonings and spices,cooking vinegar
+pantry and ingredients,cooking oils,corn oil
+pantry and ingredients,baking and dessert ingredients,dessert mixes
+pantry and ingredients,dried ingredients,dried bean curd and seaweed
+pantry and ingredients,dried ingredients,dried beans nuts and seeds
+pantry and ingredients,dried ingredients,dried ingredients
+pantry and ingredients,dried ingredients,dried mushroom and flower
+pantry and ingredients,dried ingredients,dried soup ingredients
+pantry and ingredients,sauces,fish sauce
+pantry and ingredients,baking and dessert ingredients,flour
+pantry and ingredients,flour noodles pasta,flour noodles pasta
+pantry and ingredients,sugar and sweeteners,honey and syrup
+pantry and ingredients,preserves spreads,honey syrup
+pantry and ingredients,canned food,instant meals
+pantry and ingredients,instant noodles and porridge,instant noodles
+pantry and ingredients,instant noodles porridge,instant noodles porridge
+pantry and ingredients,instant noodles and porridge,instant porridge and rice soup
+pantry and ingredients,canned food,instant soup
+pantry and ingredients,instant noodles and porridge,instant soup and mixed
+pantry and ingredients,instant noodles and porridge,instant vermicelli
+pantry and ingredients,preserves spreads,jams and marmalade
+pantry and ingredients,rice,japanese rice
+pantry and ingredients,sauces,japanese sauce
+pantry and ingredients,seasonings and spices,japanese seasonings
+pantry and ingredients,rice,jasmine rice
+pantry and ingredients,sauces,ketchup and tomato paste
+pantry and ingredients,cereal,kid s cereal
+pantry and ingredients,sauces,korean sauce
+pantry and ingredients,seasonings and spices,korean seasonings
+pantry and ingredients,seasonings and spices,local seasonings
+pantry and ingredients,condiments,mayonnaise
+pantry and ingredients,seasonings and spices,msg bouillon cube and powder
+pantry and ingredients,cereal,muesli and granola
+pantry and ingredients,condiments,mustard
+pantry and ingredients,flour noodles and pasta,noodles
+pantry and ingredients,cereal,oat meal
+pantry and ingredients,cooking oils,olive oil
+pantry and ingredients,rice,organic rice
+pantry and ingredients,sauces,oyster sauce
+pantry and ingredients,sugar and sweeteners,palm and specialty sugar
+pantry and ingredients,cooking oils,palm oil
+pantry and ingredients,flour noodles and pasta,pasta and spaghetti
+pantry and ingredients,preserves spreads,peanut butter
+pantry and ingredients,seasonings and spices,preserved seasonings
+pantry and ingredients,preserves spreads,preserves spreads
+pantry and ingredients,rice,rice
+pantry and ingredients,cooking oils,rice bran oil
+pantry and ingredients,condiments,salad dressing
+pantry and ingredients,seasonings and spices,"salt, pepper and chilli powder"
+pantry and ingredients,sauces,sauces
+pantry and ingredients,preserves spreads,savoury spread pate
+pantry and ingredients,sauces,seasoning and dipping sauce
+pantry and ingredients,condiments,seasonings and dipping sauces
+pantry and ingredients,seasonings spices,seasonings spices
+pantry and ingredients,cooking oils,sesame oil
+pantry and ingredients,seasonings and spices,"shrimp paste,chilli paste and curry paste"
+pantry and ingredients,seasonings and spices,soup and stock
+pantry and ingredients,sauces,soy sauce
+pantry and ingredients,cooking oils,soybean oil
+pantry and ingredients,sauces,spaghetti sauce
+pantry and ingredients,sauces,specialty marinated sauce
+pantry and ingredients,cooking oils,specialty oils
+pantry and ingredients,rice,specialty rice
+pantry and ingredients,seasonings and spices,spices
+pantry and ingredients,rice,sticky rice
+pantry and ingredients,sugar sweeteners,sugar sweeteners
+pantry and ingredients,cooking oils,sunflower oil
+pantry and ingredients,baking and dessert ingredients,toppings and others
+pantry and ingredients,seasonings and spices,western seasonings
+pantry and ingredients,rice,white rice
+snacks and desserts,biscuits cookies crackers,biscuit and cookies
+snacks and desserts,biscuits cookies crackers,biscuit sticks
+snacks and desserts,biscuits cookies crackers,biscuits cookies crackers
+snacks and desserts,biscuits cookies crackers,cakes and pies
+snacks and desserts,candies chewing gum,candies chewing gum
+snacks and desserts,candies and chewing gum,chewing gum
+snacks and desserts,candies and chewing gum,children's candies
+snacks and desserts,desserts,chilled desserts
+snacks and desserts,chips,chips
+snacks and desserts,chocolate,chocolate
+snacks and desserts,chips,corn chips and popcorn
+snacks and desserts,biscuits cookies crackers,crackers
+snacks and desserts,local snacks,crispy pork and shredded pork
+snacks and desserts,nuts and dried fruit,dried fruit
+snacks and desserts,chocolate,festive chocolates
+snacks and desserts,desserts,frozen desserts
+snacks and desserts,nuts and dried fruit,fruit snacks
+snacks and desserts,candies and chewing gum,gummy and jelly
+snacks and desserts,candies and chewing gum,hard candies
+snacks and desserts,ice cream,ice cream
+snacks and desserts,meat seafood snacks,meat seafood snacks
+snacks and desserts,meat and seafood snacks,meat snacks
+snacks and desserts,nuts and dried fruit,nuts and seed snacks
+snacks and desserts,nuts dried fruit,nuts dried fruit
+snacks and desserts,chips,potato chips
+snacks and desserts,chips,prawn chips
+snacks and desserts,desserts,pudding and jelly
+snacks and desserts,nuts and dried fruit,raisins and prunes
+snacks and desserts,chips,rice crackers and flour chips
+snacks and desserts,meat and seafood snacks,seafood snacks
+snacks and desserts,meat and seafood snacks,seasoned seaweed
+snacks and desserts,candies and chewing gum,soft candies
+snacks and desserts,local snacks,sweet snacks
+snacks and desserts,biscuits cookies crackers,wafers

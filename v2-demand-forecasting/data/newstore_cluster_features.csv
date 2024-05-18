@@ -1,0 +1,632 @@
+BranchCode,YearOpened,MonthOpened,QuaterOpened,LocationCluster,StoreType,edcType,StoreProvince
+2,2005,11,Q4,Downtown,CJSUPERMARKET,Welfare,Ratchaburi
+4,2006,1,Q1,Downtown,CJSUPERMARKET,Welfare,Kanchanaburi
+8,2006,8,Q3,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+10,2006,12,Q4,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+12,2007,4,Q2,Oasis,CJSUPERMARKET,Welfare,Nakhon Pathom
+13,2007,7,Q3,CityEdge,CJSUPERMARKET,Welfare,Nakhon Pathom
+15,2007,8,Q3,Oasis,CJSUPERMARKET,Welfare,Nakhon Pathom
+16,2007,10,Q4,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+17,2008,4,Q2,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+19,2008,7,Q3,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+20,2008,10,Q4,Downtown,CJSUPERMARKET,Welfare,Suphan Buri
+21,2008,12,Q4,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+22,2009,1,Q1,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+23,2009,3,Q1,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+24,2009,3,Q1,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+25,2009,7,Q3,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+28,2009,9,Q3,Downtown,CJSUPERMARKET,Welfare,Suphan Buri
+29,2009,9,Q3,CityEdge,CJSUPERMARKET,Welfare,Ratchaburi
+30,2009,10,Q4,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+32,2009,11,Q4,Oasis,CJSUPERMARKET,Welfare,Uthai Thani
+33,2009,12,Q4,Oasis,CJSUPERMARKET,Welfare,Samut Sakhon
+34,2009,12,Q4,Downtown,CJSUPERMARKET,Welfare,Kanchanaburi
+35,2009,12,Q4,Downtown,CJSUPERMARKET,Welfare,Phetchaburi
+36,2010,1,Q1,Downtown,CJSUPERMARKET,Welfare,Suphan Buri
+37,2010,2,Q1,Oasis,CJSUPERMARKET,Welfare,Uthai Thani
+38,2010,3,Q1,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+39,2010,4,Q2,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+40,2010,4,Q2,Downtown,CJSUPERMARKET,Welfare,Ratchaburi
+41,2010,5,Q2,Downtown,CJSUPERMARKET,Welfare,Phetchaburi
+42,2010,6,Q2,CityEdge,CJSUPERMARKET,Welfare,Phetchaburi
+43,2010,6,Q2,CityEdge,CJSUPERMARKET,Welfare,Ratchaburi
+44,2010,6,Q2,Downtown,CJSUPERMARKET,Welfare,Kanchanaburi
+45,2010,7,Q3,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+47,2010,8,Q3,Oasis,CJSUPERMARKET,Welfare,Chai Nat
+46,2010,8,Q3,Downtown,CJSUPERMARKET,Welfare,Nakhon Pathom
+48,2010,8,Q3,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+51,2010,9,Q3,Downtown,CJSUPERMARKET,Welfare,Nakhon Pathom
+49,2010,9,Q3,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+50,2010,9,Q3,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+52,2010,9,Q3,Downtown,CJSUPERMARKET,Welfare,Nakhon Pathom
+53,2010,10,Q4,Downtown,CJSUPERMARKET,Welfare,Nakhon Pathom
+55,2010,10,Q4,CityEdge,CJSUPERMARKET,Welfare,Ratchaburi
+54,2010,10,Q4,Suburb,CJSUPERMARKET,Welfare,Samut Sakhon
+56,2010,11,Q4,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+57,2010,11,Q4,CityEdge,CJSUPERMARKET,Welfare,Nakhon Pathom
+58,2010,11,Q4,CityEdge,CJSUPERMARKET,Welfare,Ratchaburi
+59,2010,11,Q4,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+61,2010,12,Q4,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+62,2010,12,Q4,Downtown,CJSUPERMARKET,Welfare,Phetchaburi
+63,2011,1,Q1,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+64,2011,1,Q1,Downtown,CJSUPERMARKET,Welfare,Ratchaburi
+65,2011,1,Q1,Downtown,CJSUPERMARKET,Welfare,Kanchanaburi
+66,2011,2,Q1,CityEdge,CJSUPERMARKET,Welfare,Ratchaburi
+67,2011,2,Q1,Downtown,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+68,2011,3,Q1,CityEdge,CJSUPERMARKET,Welfare,Phetchaburi
+69,2011,3,Q1,Downtown,CJSUPERMARKET,Welfare,Samut Songkhram
+70,2011,5,Q2,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+71,2011,5,Q2,Downtown,CJSUPERMARKET,Welfare,Samut Sakhon
+72,2011,5,Q2,CityEdge,CJSUPERMARKET,Welfare,Nakhon Pathom
+74,2011,5,Q2,Downtown,CJSUPERMARKET,Welfare,Nakhon Pathom
+75,2011,6,Q2,Oasis,CJSUPERMARKET,Welfare,Samut Songkhram
+76,2011,6,Q2,Downtown,CJSUPERMARKET,Welfare,Ratchaburi
+77,2011,7,Q3,Oasis,CJSUPERMARKET,Welfare,Ang Thong
+78,2011,7,Q3,CityEdge,CJSUPERMARKET,Welfare,Ratchaburi
+79,2011,8,Q3,NearFactory,CJSUPERMARKET,Welfare,Nakhon Pathom
+80,2011,8,Q3,Downtown,CJSUPERMARKET,Welfare,Samut Sakhon
+81,2011,8,Q3,Oasis,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+82,2011,9,Q3,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+83,2011,10,Q4,Downtown,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+84,2011,10,Q4,Downtown,CJSUPERMARKET,Welfare,Samut Sakhon
+85,2011,10,Q4,Oasis,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+86,2011,11,Q4,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+87,2011,11,Q4,Downtown,CJSUPERMARKET,Welfare,Ratchaburi
+88,2011,11,Q4,Oasis,CJSUPERMARKET,Welfare,Chumphon
+89,2011,12,Q4,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+91,2011,12,Q4,Downtown,CJSUPERMARKET,Welfare,Ratchaburi
+92,2011,12,Q4,Oasis,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+93,2012,1,Q1,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+94,2012,1,Q1,CityEdge,CJSUPERMARKET,Welfare,Nakhon Pathom
+95,2012,1,Q1,Downtown,CJSUPERMARKET,Welfare,Phetchaburi
+96,2012,1,Q1,Oasis,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+97,2012,2,Q1,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+98,2012,2,Q1,Oasis,CJSUPERMARKET,Welfare,Phetchaburi
+99,2012,2,Q1,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+100,2012,3,Q1,Downtown,CJSUPERMARKET,Welfare,Phetchaburi
+101,2012,3,Q1,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+102,2012,3,Q1,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+103,2012,3,Q1,Downtown,CJSUPERMARKET,Welfare,Samut Songkhram
+104,2012,4,Q2,Oasis,CJSUPERMARKET,Welfare,Phetchaburi
+105,2012,4,Q2,CityEdge,CJSUPERMARKET,Welfare,Nakhon Pathom
+106,2012,5,Q2,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+107,2012,5,Q2,Oasis,CJSUPERMARKET,Welfare,Samut Sakhon
+108,2012,5,Q2,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+109,2012,6,Q2,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+110,2012,6,Q2,CityEdge,CJSUPERMARKET,Welfare,Nakhon Pathom
+111,2012,6,Q2,Downtown,CJSUPERMARKET,Welfare,Rayong
+112,2012,7,Q3,Downtown,CJSUPERMARKET,Welfare,Phetchaburi
+113,2012,7,Q3,CityEdge,CJSUPERMARKET,Welfare,Kanchanaburi
+114,2012,7,Q3,Downtown,CJSUPERMARKET,Welfare,Phetchaburi
+115,2012,8,Q3,Downtown,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+116,2012,8,Q3,Oasis,CJSUPERMARKET,Welfare,Nakhon Pathom
+117,2012,8,Q3,Downtown,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+119,2012,9,Q3,Downtown,CJSUPERMARKET,Welfare,Ratchaburi
+120,2012,9,Q3,Downtown,CJSUPERMARKET,Welfare,Kanchanaburi
+121,2012,9,Q3,CityEdge,CJSUPERMARKET,Welfare,Nakhon Pathom
+122,2012,10,Q4,Downtown,CJSUPERMARKET,Welfare,Samut Songkhram
+123,2012,10,Q4,NearFactory,CJSUPERMARKET,Welfare,Nakhon Pathom
+124,2012,10,Q4,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+125,2012,10,Q4,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+126,2012,11,Q4,Downtown,CJSUPERMARKET,Welfare,Samut Songkhram
+127,2012,11,Q4,Oasis,CJSUPERMARKET,Welfare,Nakhon Pathom
+128,2012,11,Q4,NearFactory,CJSUPERMARKET,Welfare,Ratchaburi
+130,2012,11,Q4,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+129,2012,12,Q4,Downtown,CJSUPERMARKET,Welfare,Ratchaburi
+131,2012,12,Q4,Downtown,CJSUPERMARKET,Welfare,Ratchaburi
+132,2012,12,Q4,Downtown,CJSUPERMARKET,Welfare,Nakhon Pathom
+133,2012,12,Q4,Downtown,CJSUPERMARKET,Welfare,Phetchaburi
+134,2012,12,Q4,Oasis,CJSUPERMARKET,Welfare,Phetchaburi
+136,2013,1,Q1,Downtown,CJSUPERMARKET,Welfare,Kanchanaburi
+137,2013,2,Q1,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+138,2013,2,Q1,Downtown,CJSUPERMARKET,Welfare,Nakhon Pathom
+139,2013,3,Q1,Suburb,CJSUPERMARKET,Welfare,Samut Sakhon
+140,2013,3,Q1,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+141,2013,3,Q1,Oasis,CJSUPERMARKET,Welfare,Phetchaburi
+142,2013,3,Q1,Oasis,CJSUPERMARKET,Welfare,Nakhon Pathom
+143,2013,3,Q1,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+144,2013,4,Q2,Suburb,CJSUPERMARKET,Welfare,Samut Sakhon
+145,2013,4,Q2,Downtown,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+146,2013,4,Q2,Downtown,CJSUPERMARKET,Welfare,Kanchanaburi
+148,2013,4,Q2,CityEdge,CJSUPERMARKET,Welfare,Suphan Buri
+149,2013,5,Q2,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+150,2013,5,Q2,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+151,2013,5,Q2,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+152,2013,5,Q2,Oasis,CJSUPERMARKET,Welfare,Phetchaburi
+153,2013,5,Q2,Downtown,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+154,2013,6,Q2,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+155,2013,6,Q2,Oasis,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+156,2013,6,Q2,Downtown,CJSUPERMARKET,Welfare,Samut Sakhon
+157,2013,6,Q2,CityEdge,CJSUPERMARKET,Welfare,Samut Sakhon
+158,2013,6,Q2,CityEdge,CJSUPERMARKET,Welfare,Kanchanaburi
+159,2013,6,Q2,Downtown,CJSUPERMARKET,Welfare,Nakhon Pathom
+160,2013,7,Q3,Downtown,CJSUPERMARKET,Welfare,Samut Sakhon
+161,2013,7,Q3,NearFactory,CJSUPERMARKET,Welfare,Samut Prakan
+162,2013,7,Q3,City,CJSUPERMARKET,Welfare,Samut Prakan
+164,2013,8,Q3,Oasis,CJSUPERMARKET,Welfare,Samut Sakhon
+165,2013,8,Q3,Downtown,CJSUPERMARKET,Welfare,Rayong
+166,2013,8,Q3,NearFactory,CJSUPERMARKET,Welfare,Rayong
+167,2013,8,Q3,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+168,2013,9,Q3,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+169,2013,9,Q3,CityEdge,CJSUPERMARKET,Welfare,Phetchaburi
+170,2013,9,Q3,NearFactory,CJSUPERMARKET,Welfare,Bangkok
+171,2013,9,Q3,Suburb,CJSUPERMARKET,Welfare,Samut Sakhon
+173,2013,9,Q3,Suburb,CJSUPERMARKET,Welfare,Nonthaburi
+172,2013,9,Q3,Oasis,CJSUPERMARKET,Welfare,Ang Thong
+174,2013,10,Q4,Suburb,CJSUPERMARKET,Welfare,Nonthaburi
+175,2013,10,Q4,Suburb,CJSUPERMARKET,Welfare,Samut Sakhon
+176,2013,10,Q4,CityEdge,CJSUPERMARKET,Welfare,Nakhon Pathom
+177,2013,10,Q4,NearFactory,CJSUPERMARKET,Welfare,Bangkok
+179,2013,10,Q4,Downtown,CJSUPERMARKET,Welfare,Samut Songkhram
+180,2013,10,Q4,Suburb,CJSUPERMARKET,Welfare,Nonthaburi
+178,2013,10,Q4,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+181,2013,11,Q4,NearFactory,CJSUPERMARKET,Welfare,Bangkok
+182,2013,11,Q4,Downtown,CJSUPERMARKET,Welfare,Samut Sakhon
+183,2013,11,Q4,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+185,2013,11,Q4,NearFactory,CJSUPERMARKET,Welfare,Nakhon Pathom
+186,2013,11,Q4,CityEdge,CJSUPERMARKET,Welfare,Kanchanaburi
+187,2013,11,Q4,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+188,2013,11,Q4,NearFactory,CJSUPERMARKET,Emoney,Bangkok
+184,2013,11,Q4,Oasis,CJSUPERMARKET,Welfare,Samut Songkhram
+189,2013,11,Q4,NearFactory,CJSUPERMARKET,Welfare,Nakhon Pathom
+190,2013,11,Q4,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+192,2013,12,Q4,Suburb,CJSUPERMARKET,Welfare,Nonthaburi
+191,2013,12,Q4,Downtown,CJSUPERMARKET,Welfare,Samut Sakhon
+193,2013,12,Q4,CityEdge,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+194,2013,12,Q4,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+195,2013,12,Q4,Downtown,CJSUPERMARKET,Welfare,Nakhon Pathom
+196,2013,12,Q4,CityEdge,CJSUPERMARKET,Welfare,Ayutthaya
+197,2013,12,Q4,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+198,2013,12,Q4,City,CJSUPERMARKET,Welfare,Bangkok
+200,2013,12,Q4,Oasis,CJSUPERMARKET,Welfare,Samut Songkhram
+199,2013,12,Q4,NearFactory,CJSUPERMARKET,Welfare,Samut Sakhon
+201,2014,1,Q1,Suburb,CJSUPERMARKET,Welfare,Nonthaburi
+202,2014,1,Q1,Suburb,CJSUPERMARKET,Welfare,Nonthaburi
+203,2014,1,Q1,Suburb,CJSUPERMARKET,Welfare,Nonthaburi
+204,2014,1,Q1,CityEdge,CJSUPERMARKET,Welfare,Kanchanaburi
+205,2014,1,Q1,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+206,2014,2,Q1,CityEdge,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+207,2014,2,Q1,Oasis,CJSUPERMARKET,Welfare,Samut Songkhram
+208,2014,2,Q1,City,CJSUPERMARKET,Welfare,Nonthaburi
+209,2014,2,Q1,Downtown,CJSUPERMARKET,Welfare,Samut Songkhram
+211,2014,2,Q1,Downtown,CJSUPERMARKET,Welfare,Samut Songkhram
+210,2014,2,Q1,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+212,2014,3,Q1,Oasis,CJSUPERMARKET,Welfare,Samut Songkhram
+213,2014,3,Q1,Downtown,CJSUPERMARKET,Welfare,Chai Nat
+214,2014,3,Q1,Suburb,CJSUPERMARKET,Welfare,Nonthaburi
+215,2014,3,Q1,CityEdge,CJSUPERMARKET,Welfare,Chon Buri
+216,2014,3,Q1,NearFactory,CJSUPERMARKET,Welfare,Chon Buri
+217,2014,3,Q1,NearFactory,CJSUPERMARKET,Welfare,Ayutthaya
+218,2014,4,Q2,Oasis,CJSUPERMARKET,Welfare,Ayutthaya
+221,2014,4,Q2,NearFactory,CJSUPERMARKET,Welfare,Ayutthaya
+220,2014,4,Q2,NearFactory,CJSUPERMARKET,Welfare,Rayong
+222,2014,4,Q2,Suburb,CJSUPERMARKET,Welfare,Samut Prakan
+223,2014,4,Q2,Downtown,CJSUPERMARKET,Welfare,Nakhon Pathom
+224,2014,4,Q2,Downtown,CJSUPERMARKET,Welfare,Ayutthaya
+225,2014,5,Q2,Downtown,CJSUPERMARKET,Welfare,Nakhon Pathom
+226,2014,5,Q2,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+228,2014,5,Q2,Downtown,CJSUPERMARKET,Welfare,Kanchanaburi
+227,2014,5,Q2,CityEdge,CJSUPERMARKET,Welfare,Rayong
+229,2014,5,Q2,NearFactory,CJSUPERMARKET,Welfare,Rayong
+230,2014,6,Q2,City,CJSUPERMARKET,Welfare,Bangkok
+231,2014,6,Q2,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+232,2014,6,Q2,CityEdge,CJSUPERMARKET,Welfare,Phetchaburi
+233,2014,6,Q2,Suburb,CJSUPERMARKET,Welfare,Nonthaburi
+234,2014,6,Q2,NearFactory,CJSUPERMARKET,Welfare,Chon Buri
+236,2014,7,Q3,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+237,2014,7,Q3,Oasis,CJSUPERMARKET,Welfare,Ang Thong
+238,2014,7,Q3,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+239,2016,9,Q3,Downtown,CJSUPERMARKET,Welfare,Ratchaburi
+240,2016,9,Q3,Suburb,CJSUPERMARKET,Welfare,Nonthaburi
+241,2016,11,Q4,Downtown,CJSUPERMARKET,Welfare,Samut Prakan
+242,2016,11,Q4,CityEdge,CJSUPERMARKET,Welfare,Nakhon Pathom
+243,2017,1,Q1,Suburb,CJSUPERMARKET,Welfare,Pathum Thani
+244,2017,1,Q1,Suburb,CJSUPERMARKET,Welfare,Pathum Thani
+245,2017,1,Q1,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+246,2017,1,Q1,NearFactory,CJSUPERMARKET,Welfare,Phetchaburi
+247,2017,2,Q1,Downtown,CJSUPERMARKET,Welfare,Ang Thong
+248,2017,2,Q1,Oasis,CJSUPERMARKET,Welfare,Sing Buri
+258,2017,3,Q1,Suburb,CJSUPERMARKET,Welfare,Pathum Thani
+259,2017,3,Q1,Oasis,CJSUPERMARKET,Welfare,Chai Nat
+249,2017,3,Q1,CityEdge,CJSUPERMARKET,Welfare,Chon Buri
+251,2017,3,Q1,Oasis,CJSUPERMARKET,Welfare,Lop Buri
+250,2017,3,Q1,Suburb,CJSUPERMARKET,Welfare,Pathum Thani
+260,2017,4,Q2,NearFactory,CJSUPERMARKET,Welfare,Samut Prakan
+261,2017,4,Q2,Downtown,CJSUPERMARKET,Welfare,Chon Buri
+263,2017,4,Q2,NearFactory,CJSUPERMARKET,Welfare,Lop Buri
+264,2017,4,Q2,Oasis,CJSUPERMARKET,Welfare,Chon Buri
+262,2017,5,Q2,Downtown,CJSUPERMARKET,Welfare,Lop Buri
+266,2017,5,Q2,NearFactory,CJSUPERMARKET,Welfare,Ayutthaya
+269,2017,5,Q2,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+268,2017,5,Q2,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+271,2017,6,Q2,NearFactory,CJSUPERMARKET,Welfare,Pathum Thani
+265,2017,6,Q2,Suburb,CJSUPERMARKET,Welfare,Bangkok
+270,2017,6,Q2,Oasis,CJSUPERMARKET,Welfare,Ratchaburi
+275,2017,7,Q3,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+267,2017,7,Q3,Downtown,CJSUPERMARKET,Welfare,Chon Buri
+274,2017,7,Q3,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+273,2017,7,Q3,Downtown,CJSUPERMARKET,Welfare,Lop Buri
+277,2017,7,Q3,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+276,2017,7,Q3,Oasis,CJSUPERMARKET,Welfare,Nakhon Pathom
+282,2017,8,Q3,Oasis,CJSUPERMARKET,Welfare,Prachuap Khiri Khan
+278,2017,8,Q3,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+283,2017,8,Q3,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+280,2017,8,Q3,Downtown,CJSUPERMARKET,Welfare,Lop Buri
+284,2017,8,Q3,Oasis,CJSUPERMARKET,Welfare,Nakhon Pathom
+285,2017,8,Q3,Oasis,CJSUPERMARKET,Welfare,Nakhon Pathom
+287,2017,8,Q3,CityEdge,CJSUPERMARKET,Welfare,Nakhon Pathom
+279,2017,9,Q3,City,CJSUPERMARKET,Welfare,Bangkok
+281,2017,9,Q3,CityEdge,CJSUPERMARKET,Welfare,Sing Buri
+295,2017,9,Q3,NearFactory,CJSUPERMARKET,Welfare,Chon Buri
+286,2017,9,Q3,Oasis,CJSUPERMARKET,Welfare,Kanchanaburi
+294,2017,9,Q3,NearFactory,CJSUPERMARKET,Welfare,Nakhon Pathom
+292,2017,9,Q3,NearFactory,CJSUPERMARKET,Welfare,Nakhon Pathom
+293,2017,10,Q4,NearFactory,CJSUPERMARKET,Welfare,Chachoengsao
+296,2017,10,Q4,Downtown,CJSUPERMARKET,Welfare,Suphan Buri
+297,2017,10,Q4,Oasis,CJSUPERMARKET,Welfare,Suphan Buri
+299,2018,1,Q1,NearFactory,CJSUPERMARKET,Welfare,Chon Buri
+289,2018,1,Q1,Oasis,CJSUPERMARKET,Welfare,Nakhon Pathom
+288,2018,2,Q1,Suburb,CJSUPERMARKET,Welfare,Samut Sakhon
+300,2018,2,Q1,CityEdge,CJSUPERMARKET,Welfare,Ratchaburi
+298,2018,3,Q1,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+303,2018,4,Q2,Oasis,CJSUPERMARKET,Emoney,Ayutthaya
+304,2018,4,Q2,City,CJSUPERMARKET,Emoney,Nonthaburi
+301,2018,4,Q2,City,CJSUPERMARKET,Emoney,Bangkok
+306,2018,5,Q2,Oasis,CJSUPERMARKET,Emoney,Chon Buri
+309,2018,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Rayong
+305,2018,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+311,2018,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+302,2018,5,Q2,Suburb,CJSUPERMARKET,Emoney,Nonthaburi
+310,2018,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+314,2018,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+318,2018,6,Q2,City,CJSUPERMARKET,Emoney,Samut Prakan
+317,2018,6,Q2,Suburb,CJSUPERMARKET,Emoney,Nonthaburi
+319,2018,6,Q2,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+315,2018,7,Q3,NearFactory,CJSUPERMARKET,Emoney,Ayutthaya
+320,2018,7,Q3,Downtown,CJSUPERMARKET,Emoney,Rayong
+316,2018,7,Q3,Oasis,CJSUPERMARKET,Emoney,Chon Buri
+313,2018,7,Q3,NearFactory,CJSUPERMARKET,Emoney,Ayutthaya
+312,2018,7,Q3,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+321,2018,7,Q3,CityEdge,CJSUPERMARKET,Welfare,Phetchaburi
+325,2018,7,Q3,CityEdge,CJSUPERMARKET,Emoney,Ratchaburi
+324,2018,7,Q3,Oasis,CJSUPERMARKET,Emoney,Rayong
+308,2018,7,Q3,CityEdge,CJSUPERMARKET,Emoney,Chon Buri
+326,2018,8,Q3,NearFactory,CJSUPERMARKET,Emoney,Rayong
+322,2018,8,Q3,Suburb,CJSUPERMARKET,Emoney,Nonthaburi
+327,2018,9,Q3,City,CJSUPERMARKET,Emoney,Samut Prakan
+329,2018,9,Q3,City,CJSUPERMARKET,Emoney,Bangkok
+328,2018,9,Q3,Oasis,CJSUPERMARKET,Emoney,Uthai Thani
+323,2018,9,Q3,Downtown,CJSUPERMARKET,Welfare,Ratchaburi
+330,2018,9,Q3,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+334,2018,9,Q3,NearFactory,CJSUPERMARKET,Emoney,Rayong
+335,2018,9,Q3,Oasis,CJSUPERMARKET,Emoney,Uthai Thani
+331,2018,9,Q3,Oasis,CJSUPERMARKET,Emoney,Ang Thong
+333,2018,9,Q3,CityEdge,CJSUPERMARKET,Emoney,Ayutthaya
+332,2018,9,Q3,CityEdge,CJSUPERMARKET,Emoney,Suphan Buri
+336,2018,10,Q4,Oasis,CJSUPERMARKET,Emoney,Uthai Thani
+338,2018,10,Q4,Downtown,CJSUPERMARKET,Emoney,Suphan Buri
+337,2018,10,Q4,City,CJSUPERMARKET,Emoney,Bangkok
+344,2018,10,Q4,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+345,2018,10,Q4,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+348,2018,10,Q4,NearFactory,CJSUPERMARKET,Emoney,Saraburi
+347,2018,10,Q4,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+341,2018,10,Q4,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+343,2018,11,Q4,Oasis,CJSUPERMARKET,Emoney,Nakhon Pathom
+291,2018,11,Q4,Downtown,CJSUPERMARKET,Emoney,Suphan Buri
+346,2018,11,Q4,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+351,2018,11,Q4,NearFactory,CJSUPERMARKET,Special,Chachoengsao
+340,2018,11,Q4,NearFactory,CJSUPERMARKET,Emoney,Rayong
+342,2018,11,Q4,NearFactory,CJSUPERMARKET,Emoney,Kanchanaburi
+352,2018,11,Q4,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+350,2018,11,Q4,NearFactory,CJSUPERMARKET,Emoney,Rayong
+354,2018,11,Q4,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+339,2018,11,Q4,NearFactory,CJSUPERMARKET,Welfare,Ratchaburi
+353,2018,12,Q4,NearFactory,CJSUPERMARKET,Emoney,Pathum Thani
+357,2018,12,Q4,CityEdge,CJSUPERMARKET,Emoney,Phetchaburi
+356,2018,12,Q4,Downtown,CJSUPERMARKET,Emoney,Prachuap Khiri Khan
+362,2019,1,Q1,Downtown,CJSUPERMARKET,Emoney,Chai Nat
+363,2019,1,Q1,Oasis,CJSUPERMARKET,Emoney,Suphan Buri
+349,2019,1,Q1,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+365,2019,1,Q1,NearFactory,CJSUPERMARKET,Emoney,Ayutthaya
+367,2019,1,Q1,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+359,2019,1,Q1,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+361,2019,1,Q1,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+366,2019,1,Q1,NearFactory,CJSUPERMARKET,Emoney,Rayong
+368,2019,1,Q1,NearFactory,CJSUPERMARKET,Emoney,Rayong
+373,2019,1,Q1,Oasis,CJSUPERMARKET,Emoney,Ayutthaya
+360,2019,1,Q1,City,CJSUPERMARKET,Emoney,Samut Prakan
+372,2019,2,Q1,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+364,2019,2,Q1,CityEdge,CJSUPERMARKET,Emoney,Rayong
+370,2019,2,Q1,CityEdge,CJSUPERMARKET,Emoney,Chachoengsao
+369,2019,2,Q1,Oasis,CJSUPERMARKET,Emoney,Chon Buri
+377,2019,2,Q1,Oasis,CJSUPERMARKET,Emoney,Ang Thong
+376,2019,2,Q1,NearFactory,CJSUPERMARKET,Emoney,Rayong
+374,2019,2,Q1,Downtown,CJSUPERMARKET,Emoney,Saraburi
+375,2019,2,Q1,NearFactory,CJSUPERMARKET,Emoney,Ayutthaya
+384,2019,2,Q1,NearFactory,CJSUPERMARKET,Emoney,Saraburi
+381,2019,2,Q1,CityEdge,CJSUPERMARKET,Emoney,Saraburi
+390,2019,2,Q1,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+385,2019,3,Q1,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+383,2019,3,Q1,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+386,2019,3,Q1,CityEdge,CJSUPERMARKET,Emoney,Ang Thong
+371,2019,3,Q1,Suburb,CJSUPERMARKET,Emoney,Nonthaburi
+394,2019,3,Q1,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+391,2019,3,Q1,Oasis,CJSUPERMARKET,Emoney,Saraburi
+397,2019,3,Q1,Suburb,CJSUPERMARKET,Emoney,Pathum Thani
+393,2019,3,Q1,NearFactory,CJSUPERMARKET,Emoney,Ayutthaya
+358,2019,4,Q2,City,CJSUPERMARKET,Emoney,Samut Prakan
+395,2019,4,Q2,Downtown,CJSUPERMARKET,Emoney,Ayutthaya
+388,2019,4,Q2,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+380,2019,4,Q2,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+392,2019,4,Q2,NearFactory,CJSUPERMARKET,Emoney,Rayong
+402,2019,4,Q2,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+378,2019,4,Q2,Oasis,CJSUPERMARKET,Emoney,Rayong
+404,2019,4,Q2,NearFactory,CJSUPERMARKET,Emoney,Saraburi
+405,2019,4,Q2,Suburb,CJSUPERMARKET,Emoney,Pathum Thani
+403,2019,4,Q2,NearFactory,CJSUPERMARKET,Emoney,Saraburi
+406,2019,4,Q2,Downtown,CJSUPERMARKET,Emoney,Saraburi
+382,2019,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+401,2019,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Ayutthaya
+410,2019,5,Q2,Downtown,CJSUPERMARKET,Emoney,Ang Thong
+411,2019,5,Q2,Oasis,CJSUPERMARKET,Emoney,Nakhon Pathom
+415,2019,5,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Pathom
+414,2019,5,Q2,City,CJSUPERMARKET,Emoney,Bangkok
+413,2019,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+408,2019,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+409,2019,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+399,2019,5,Q2,Oasis,CJSUPERMARKET,Emoney,Ang Thong
+407,2019,6,Q2,City,CJSUPERMARKET,Emoney,Nonthaburi
+379,2019,6,Q2,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+355,2019,6,Q2,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+387,2019,6,Q2,Suburb,CJSUPERMARKET,Emoney,Samut Prakan
+412,2019,6,Q2,Suburb,CJSUPERMARKET,Emoney,Nakhon Pathom
+398,2019,6,Q2,NearFactory,CJSUPERMARKET,Emoney,Ayutthaya
+422,2019,6,Q2,Suburb,CJSUPERMARKET,Emoney,Samut Sakhon
+421,2019,7,Q3,Oasis,CJSUPERMARKET,Emoney,Nakhon Nayok
+419,2019,7,Q3,Suburb,CJSUPERMARKET,Emoney,Samut Sakhon
+423,2019,7,Q3,Suburb,CJSUPERMARKET,Emoney,Pathum Thani
+420,2019,7,Q3,City,CJSUPERMARKET,Emoney,Bangkok
+425,2019,7,Q3,City,CJSUPERMARKET,Emoney,Bangkok
+426,2019,7,Q3,City,CJSUPERMARKET,Emoney,Bangkok
+430,2019,7,Q3,CityEdge,CJSUPERMARKET,Emoney,Nakhon Pathom
+429,2019,8,Q3,Oasis,CJSUPERMARKET,Emoney,Nakhon Pathom
+416,2019,8,Q3,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+424,2019,8,Q3,City,CJSUPERMARKET,Emoney,Bangkok
+435,2019,8,Q3,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+427,2019,8,Q3,NearFactory,CJSUPERMARKET,Emoney,Pathum Thani
+433,2019,9,Q3,City,CJSUPERMARKET,Emoney,Bangkok
+441,2019,9,Q3,Oasis,CJSUPERMARKET,Emoney,Chon Buri
+445,2019,9,Q3,City,CJSUPERMARKET,Emoney,Bangkok
+446,2019,9,Q3,NearFactory,CJSUPERMARKET,Emoney,Nakhon Pathom
+432,2019,9,Q3,Suburb,CJSUPERMARKET,Emoney,Bangkok
+447,2019,9,Q3,Suburb,CJSUPERMARKET,Emoney,Nonthaburi
+440,2019,9,Q3,Oasis,CJSUPERMARKET,Emoney,Suphan Buri
+431,2019,10,Q4,NearFactory,CJSUPERMARKET,Emoney,Chachoengsao
+418,2019,10,Q4,City,CJSUPERMARKET,Emoney,Bangkok
+443,2019,10,Q4,City,CJSUPERMARKET,Emoney,Bangkok
+449,2019,10,Q4,Oasis,CJSUPERMARKET,Emoney,Chachoengsao
+438,2019,10,Q4,City,CJSUPERMARKET,Emoney,Samut Prakan
+444,2019,10,Q4,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+434,2019,10,Q4,City,CJSUPERMARKET,Emoney,Samut Prakan
+448,2019,10,Q4,City,CJSUPERMARKET,Emoney,Bangkok
+451,2019,10,Q4,NearFactory,CJSUPERMARKET,Emoney,Pathum Thani
+463,2019,10,Q4,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+439,2019,11,Q4,Oasis,CJSUPERMARKET,Emoney,Nakhon Nayok
+459,2019,11,Q4,Oasis,CJSUPERMARKET,Emoney,Prachin Buri
+454,2019,11,Q4,Downtown,CJSUPERMARKET,Emoney,Rayong
+452,2019,11,Q4,Oasis,CJSUPERMARKET,Emoney,Prachin Buri
+456,2019,11,Q4,City,CJSUPERMARKET,Emoney,Bangkok
+462,2019,11,Q4,City,CJSUPERMARKET,Emoney,Bangkok
+465,2019,11,Q4,Oasis,CJSUPERMARKET,Emoney,Chachoengsao
+457,2019,11,Q4,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+453,2019,11,Q4,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+460,2019,11,Q4,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+450,2019,12,Q4,City,CJSUPERMARKET,Emoney,Bangkok
+469,2019,12,Q4,Oasis,CJSUPERMARKET,Emoney,Suphan Buri
+458,2019,12,Q4,City,CJSUPERMARKET,Emoney,Bangkok
+471,2019,12,Q4,Oasis,CJSUPERMARKET,Emoney,Kanchanaburi
+473,2019,12,Q4,Suburb,CJSUPERMARKET,Emoney,Pathum Thani
+470,2019,12,Q4,NearFactory,CJSUPERMARKET,Emoney,Rayong
+475,2020,1,Q1,CityEdge,CJSUPERMARKET,Emoney,Phetchaburi
+472,2020,1,Q1,Suburb,CJSUPERMARKET,Emoney,Samut Prakan
+474,2020,1,Q1,Oasis,CJSUPERMARKET,Emoney,Nakhon Pathom
+484,2020,1,Q1,NearFactory,CJSUPERMARKET,Emoney,Prachin Buri
+478,2020,2,Q1,City,CJSUPERMARKET,Emoney,Samut Prakan
+476,2020,2,Q1,CityEdge,CJSUPERMARKET,Emoney,Rayong
+467,2020,2,Q1,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+479,2020,2,Q1,Suburb,CJSUPERMARKET,Emoney,Samut Prakan
+464,2020,2,Q1,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+482,2020,2,Q1,Suburb,CJSUPERMARKET,Emoney,Pathum Thani
+477,2020,3,Q1,CityEdge,CJSUPERMARKET,Emoney,Nakhon Pathom
+468,2020,3,Q1,City,CJSUPERMARKET,Emoney,Bangkok
+485,2020,3,Q1,City,CJSUPERMARKET,Emoney,Bangkok
+488,2020,3,Q1,Suburb,CJSUPERMARKET,Emoney,Pathum Thani
+481,2020,3,Q1,Suburb,CJSUPERMARKET,Emoney,Bangkok
+486,2020,3,Q1,Suburb,CJSUPERMARKET,Emoney,Bangkok
+461,2020,3,Q1,Suburb,CJSUPERMARKET,Emoney,Samut Prakan
+290,2020,3,Q1,NearFactory,CJSUPERMARKET,Emoney,Nakhon Pathom
+483,2020,3,Q1,City,CJSUPERMARKET,Emoney,Samut Prakan
+396,2020,4,Q2,City,CJSUPERMARKET,Emoney,Bangkok
+492,2020,4,Q2,Suburb,CJSUPERMARKET,Emoney,Samut Sakhon
+495,2020,4,Q2,Oasis,CJSUPERMARKET,Emoney,Ratchaburi
+491,2020,4,Q2,Suburb,CJSUPERMARKET,Emoney,Bangkok
+490,2020,4,Q2,Suburb,CJSUPERMARKET,Emoney,Bangkok
+494,2020,4,Q2,City,CJSUPERMARKET,Emoney,Samut Prakan
+428,2020,4,Q2,Suburb,CJSUPERMARKET,Emoney,Nonthaburi
+307,2020,4,Q2,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+272,2020,4,Q2,City,CJSUPERMARKET,Emoney,Bangkok
+501,2020,4,Q2,Oasis,CJSUPERMARKET,Emoney,Ayutthaya
+417,2020,5,Q2,City,CJSUPERMARKET,Emoney,Bangkok
+493,2020,5,Q2,Downtown,CJSUPERMARKET,Emoney,Nakhon Pathom
+455,2020,5,Q2,Suburb,CJSUPERMARKET,Emoney,Samut Sakhon
+489,2020,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Chon Buri
+507,2020,5,Q2,Oasis,CJSUPERMARKET,Emoney,Nakhon Pathom
+497,2020,5,Q2,Oasis,CJSUPERMARKET,Emoney,Suphan Buri
+437,2020,5,Q2,City,CJSUPERMARKET,Emoney,Bangkok
+504,2020,5,Q2,City,CJSUPERMARKET,Emoney,Samut Prakan
+498,2020,5,Q2,Suburb,CJSUPERMARKET,Emoney,Nonthaburi
+502,2020,5,Q2,Suburb,CJSUPERMARKET,Emoney,Samut Sakhon
+513,2020,5,Q2,Oasis,CJSUPERMARKET,Emoney,Prachin Buri
+505,2020,5,Q2,Suburb,CJSUPERMARKET,Emoney,Samut Prakan
+523,2020,5,Q2,Suburb,CJSUPERMARKET,Emoney,Samut Prakan
+506,2020,5,Q2,Oasis,CJSUPERMARKET,Emoney,Chachoengsao
+518,2020,6,Q2,Oasis,CJSUPERMARKET,Emoney,Phetchaburi
+521,2020,6,Q2,Oasis,CJSUPERMARKET,Emoney,Ang Thong
+515,2020,6,Q2,Oasis,CJSUPERMARKET,Emoney,Phetchaburi
+487,2020,6,Q2,Oasis,CJSUPERMARKET,Emoney,Prachin Buri
+389,2020,6,Q2,Oasis,CJSUPERMARKET,Emoney,Chachoengsao
+508,2020,6,Q2,Suburb,CJSUPERMARKET,Emoney,Nonthaburi
+525,2020,6,Q2,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+510,2020,6,Q2,Oasis,CJSUPERMARKET,Emoney,Prachin Buri
+519,2020,6,Q2,Oasis,CJSUPERMARKET,Emoney,Suphan Buri
+499,2020,7,Q3,City,CJSUPERMARKET_BAO_WASH,Emoney,Nonthaburi
+466,2020,7,Q3,NearFactory,CJSUPERMARKET,Emoney,Rayong
+509,2020,7,Q3,Oasis,CJSUPERMARKET,Emoney,Chachoengsao
+500,2020,7,Q3,City,CJSUPERMARKET,Emoney,Chon Buri
+512,2020,7,Q3,City,CJSUPERMARKET,Emoney,Bangkok
+532,2020,7,Q3,Oasis,CJSUPERMARKET,Emoney,Kanchanaburi
+542,2020,7,Q3,Suburb,CJSUPERMARKET,Emoney,Samut Prakan
+537,2020,8,Q3,NearFactory,CJSUPERMARKET,Emoney,Nonthaburi
+522,2020,8,Q3,CityEdge,CJSUPERMARKET,Emoney,Phetchaburi
+530,2020,8,Q3,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+480,2020,8,Q3,NearFactory,CJMORE,Emoney,Ayutthaya
+526,2020,8,Q3,NearFactory,CJSUPERMARKET,Emoney,Rayong
+535,2020,8,Q3,CityEdge,CJSUPERMARKET,Emoney,Nakhon Pathom
+541,2020,8,Q3,Oasis,CJSUPERMARKET,Emoney,Suphan Buri
+547,2020,8,Q3,Oasis,CJSUPERMARKET,Emoney,Nakhon Pathom
+543,2020,8,Q3,Oasis,CJSUPERMARKET,Emoney,Prachin Buri
+514,2020,8,Q3,Downtown,CJSUPERMARKET,Emoney,Chai Nat
+534,2020,8,Q3,Downtown,CJSUPERMARKET,Emoney,Sing Buri
+538,2020,8,Q3,Oasis,CJSUPERMARKET,Emoney,Rayong
+528,2020,9,Q3,Oasis,CJSUPERMARKET,Emoney,Phetchaburi
+517,2020,9,Q3,Oasis,CJSUPERMARKET,Emoney,Phetchaburi
+496,2020,9,Q3,City,CJSUPERMARKET,Emoney,Bangkok
+516,2020,9,Q3,Downtown,CJSUPERMARKET,Emoney,Prachin Buri
+551,2020,9,Q3,Oasis,CJSUPERMARKET,Emoney,Saraburi
+536,2020,9,Q3,NearFactory,CJSUPERMARKET,Emoney,Ayutthaya
+552,2020,9,Q3,Oasis,CJSUPERMARKET,Emoney,Saraburi
+546,2020,9,Q3,Suburb,CJSUPERMARKET,Emoney,Pathum Thani
+544,2020,9,Q3,City,CJSUPERMARKET,Emoney,Bangkok
+557,2020,9,Q3,Oasis,CJSUPERMARKET,Emoney,Prachuap Khiri Khan
+436,2020,9,Q3,City,CJSUPERMARKET,Emoney,Bangkok
+545,2020,9,Q3,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+558,2020,9,Q3,CityEdge,CJSUPERMARKET,Emoney,Prachuap Khiri Khan
+511,2020,9,Q3,CityEdge,CJSUPERMARKET,Emoney,Ratchaburi
+554,2020,9,Q3,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+555,2020,10,Q4,Oasis,CJSUPERMARKET,Emoney,Rayong
+566,2020,10,Q4,Oasis,CJSUPERMARKET,Emoney,Chai Nat
+548,2020,10,Q4,City,CJSUPERMARKET,Emoney,Bangkok
+559,2020,10,Q4,City,CJSUPERMARKET,Emoney,Samut Prakan
+524,2020,10,Q4,NearFactory,CJSUPERMARKET,Emoney,Rayong
+585,2020,10,Q4,Oasis,CJSUPERMARKET,Emoney,Kanchanaburi
+563,2020,10,Q4,CityEdge,CJSUPERMARKET,Emoney,Prachuap Khiri Khan
+586,2020,10,Q4,Oasis,CJSUPERMARKET,Emoney,Ayutthaya
+577,2020,10,Q4,Oasis,CJSUPERMARKET,Emoney,Saraburi
+579,2020,10,Q4,Downtown,CJSUPERMARKET,Emoney,Saraburi
+583,2020,11,Q4,Oasis,CJSUPERMARKET,Emoney,Nakhon Sawan
+550,2020,11,Q4,Suburb,CJSUPERMARKET,Emoney,Bangkok
+549,2020,11,Q4,City,CJMORE,Emoney,Bangkok
+539,2020,11,Q4,City,CJSUPERMARKET,Emoney,Pathum Thani
+529,2020,11,Q4,CityEdge,CJSUPERMARKET,Emoney,Chon Buri
+570,2020,11,Q4,CityEdge,CJSUPERMARKET,Emoney,Rayong
+527,2020,11,Q4,Suburb,CJSUPERMARKET,Emoney,Bangkok
+565,2020,11,Q4,Oasis,CJSUPERMARKET,Emoney,Nakhon Nayok
+575,2020,11,Q4,Oasis,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+568,2020,11,Q4,CityEdge,CJSUPERMARKET,Emoney,Chon Buri
+564,2020,11,Q4,Oasis,CJSUPERMARKET,Emoney,Phetchaburi
+567,2020,11,Q4,Downtown,CJSUPERMARKET,Emoney,Chai Nat
+556,2020,11,Q4,Suburb,CJSUPERMARKET,Emoney,Pathum Thani
+576,2020,11,Q4,Oasis,CJSUPERMARKET,Emoney,Saraburi
+596,2020,11,Q4,Oasis,CJSUPERMARKET,Emoney,Phetchaburi
+592,2020,11,Q4,Oasis,CJSUPERMARKET,Emoney,Nakhon Sawan
+562,2020,11,Q4,Oasis,CJSUPERMARKET,Emoney,Chai Nat
+587,2020,11,Q4,NearFactory,CJSUPERMARKET,Emoney,Rayong
+582,2020,11,Q4,Oasis,CJSUPERMARKET,Emoney,Phetchaburi
+569,2020,12,Q4,City,CJSUPERMARKET,Emoney,Bangkok
+560,2020,12,Q4,City,CJSUPERMARKET,Emoney,Pathum Thani
+588,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Kanchanaburi
+594,2020,12,Q4,CityEdge,CJSUPERMARKET,Emoney,Lop Buri
+571,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Ratchaburi
+591,2020,12,Q4,CityEdge,CJSUPERMARKET,Emoney,Nakhon Sawan
+597,2020,12,Q4,Downtown,CJSUPERMARKET,Emoney,Nakhon Pathom
+572,2020,12,Q4,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
+593,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Kanchanaburi
+600,2020,12,Q4,Downtown,CJSUPERMARKET_BAO_WASH,Emoney,Nakhon Sawan
+580,2020,12,Q4,NearFactory,CJSUPERMARKET,Emoney,Samut Sakhon
+574,2020,12,Q4,NearFactory,CJSUPERMARKET,Emoney,Rayong
+531,2020,12,Q4,Downtown,CJSUPERMARKET,Emoney,Chon Buri
+609,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Rayong
+603,2020,12,Q4,Downtown,CJSUPERMARKET,Emoney,Nakhon Sawan
+613,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Chanthaburi
+606,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+610,2020,12,Q4,CityEdge,CJSUPERMARKET,Emoney,Lop Buri
+561,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Chai Nat
+621,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Chanthaburi
+598,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+624,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Nakhon Sawan
+618,2020,12,Q4,Suburb,CJSUPERMARKET,Emoney,Bangkok
+573,2020,12,Q4,CityEdge,CJSUPERMARKET,Emoney,Chon Buri
+533,2020,12,Q4,Downtown,CJSUPERMARKET,Emoney,Ayutthaya
+620,2020,12,Q4,Downtown,CJSUPERMARKET,Emoney,Saraburi
+602,2020,12,Q4,Suburb,CJSUPERMARKET,Emoney,Bangkok
+626,2020,12,Q4,Downtown,CJSUPERMARKET,Emoney,Nakhon Sawan
+616,2020,12,Q4,CityEdge,CJSUPERMARKET_BAO_WASH,Emoney,Chanthaburi
+617,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+590,2020,12,Q4,Downtown,CJSUPERMARKET,Emoney,Nakhon Sawan
+622,2020,12,Q4,Oasis,CJSUPERMARKET,Emoney,Nakhon Sawan
+623,2021,1,Q1,Downtown,CJSUPERMARKET,Emoney,Nakhon Sawan
+607,2021,1,Q1,Oasis,CJSUPERMARKET,Emoney,Sa Kaeo
+612,2021,1,Q1,Downtown,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+629,2021,2,Q1,NearFactory,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+553,2021,2,Q1,NearFactory,CJSUPERMARKET_BAO_WASH_CAFE,Emoney,Chon Buri
+625,2021,2,Q1,Downtown,CJSUPERMARKET,Emoney,Nakhon Pathom
+619,2021,2,Q1,Suburb,CJSUPERMARKET,Emoney,Chachoengsao
+628,2021,2,Q1,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+589,2021,2,Q1,Oasis,CJSUPERMARKET,Emoney,Ayutthaya
+627,2021,2,Q1,Oasis,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+635,2021,2,Q1,Suburb,CJSUPERMARKET,Emoney,Pathum Thani
+615,2021,2,Q1,CityEdge,CJSUPERMARKET,Emoney,Chanthaburi
+631,2021,2,Q1,Oasis,CJSUPERMARKET,Emoney,Chanthaburi
+611,2021,2,Q1,Oasis,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+639,2021,3,Q1,Oasis,CJSUPERMARKET,Emoney,Kanchanaburi
+630,2021,3,Q1,CityEdge,CJSUPERMARKET,Emoney,Chon Buri
+637,2021,3,Q1,CityEdge,CJSUPERMARKET,Emoney,Nakhon Sawan
+632,2021,3,Q1,NearFactory,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+608,2021,3,Q1,Oasis,CJSUPERMARKET,Emoney,Sa Kaeo
+595,2021,3,Q1,Downtown,CJSUPERMARKET,Emoney,Uthai Thani
+641,2021,3,Q1,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+647,2021,3,Q1,CityEdge,CJSUPERMARKET,Emoney,Chanthaburi
+605,2021,3,Q1,CityEdge,CJSUPERMARKET,Emoney,Ayutthaya
+646,2021,3,Q1,CityEdge,CJSUPERMARKET,Emoney,Nakhon Sawan
+604,2021,3,Q1,Oasis,CJSUPERMARKET,Emoney,Sing Buri
+599,2021,3,Q1,Oasis,CJSUPERMARKET,Emoney,Rayong
+650,2021,3,Q1,Oasis,CJSUPERMARKET,Emoney,Chon Buri
+649,2021,4,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+658,2021,4,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+644,2021,4,Q2,Downtown,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+633,2021,4,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+584,2021,4,Q2,Oasis,CJSUPERMARKET,Emoney,Suphan Buri
+634,2021,4,Q2,NearFactory,CJSUPERMARKET,Emoney,Bangkok
+648,2021,4,Q2,Oasis,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+652,2021,4,Q2,Suburb,CJSUPERMARKET,Emoney,Pathum Thani
+654,2021,4,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+659,2021,4,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+661,2021,4,Q2,Downtown,CJSUPERMARKET,Emoney,Nakhon Sawan
+653,2021,4,Q2,Suburb,CJSUPERMARKET,Emoney,Pathum Thani
+651,2021,4,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+665,2021,4,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+638,2021,4,Q2,Oasis,CJSUPERMARKET,Emoney,Chanthaburi
+656,2021,4,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+657,2021,4,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Sawan
+645,2021,5,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Sawan
+660,2021,5,Q2,Oasis,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+664,2021,5,Q2,Oasis,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+662,2021,5,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+669,2021,5,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+666,2021,5,Q2,Oasis,CJSUPERMARKET,Emoney,Nakhon Nayok
+614,2021,5,Q2,CityEdge,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+642,2021,5,Q2,Downtown,CJSUPERMARKET,Emoney,Lop Buri
+671,2021,5,Q2,Oasis,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+674,2021,5,Q2,Oasis,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+676,2021,5,Q2,Downtown,CJSUPERMARKET,Emoney,Nakhon Ratchasima
+689,2021,5,Q2,NearFactory,CJSUPERMARKET,Emoney,Samut Prakan
